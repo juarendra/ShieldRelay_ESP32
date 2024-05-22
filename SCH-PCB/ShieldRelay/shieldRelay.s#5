@@ -2780,12 +2780,12 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/FM4004-W.pdf"
 <attribute name="LAST_DATE_TIME" x="217.17" y="10.16" size="2.286" layer="94"/>
 <attribute name="SHEET" x="230.505" y="5.08" size="2.54" layer="94"/>
 </instance>
-<instance part="BOARD1" gate="G$1" x="187.706" y="87.63" smashed="yes" rot="R180">
-<attribute name="NAME" x="184.531" y="29.845" size="1.27" layer="95" rot="R180"/>
+<instance part="BOARD1" gate="G$1" x="453.898" y="168.148" smashed="yes" rot="R180">
+<attribute name="NAME" x="450.723" y="110.363" size="1.27" layer="95" rot="R180"/>
 </instance>
-<instance part="NODE1" gate="G$1" x="225.044" y="61.722" smashed="yes">
-<attribute name="VALUE" x="214.884" y="33.782" size="1.27" layer="96"/>
-<attribute name="NAME" x="214.884" y="79.502" size="1.27" layer="95"/>
+<instance part="NODE1" gate="G$1" x="491.236" y="142.24" smashed="yes">
+<attribute name="VALUE" x="481.076" y="114.3" size="1.27" layer="96"/>
+<attribute name="NAME" x="481.076" y="160.02" size="1.27" layer="95"/>
 </instance>
 <instance part="K1" gate="G$1" x="78.994" y="119.634" smashed="yes" rot="R90">
 <attribute name="NAME" x="75.184" y="138.43" size="1.016" layer="95" rot="R90" align="center-left"/>

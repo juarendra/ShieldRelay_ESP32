@@ -2199,6 +2199,8 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/FM4004-W.pdf"
 <part name="GND5" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
 <part name="GND6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
+<part name="P+7" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
+<part name="GND7" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -2238,9 +2240,9 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/FM4004-W.pdf"
 <attribute name="NAME" x="371.094" y="151.638" size="1.016" layer="95" align="center-left"/>
 <attribute name="VALUE" x="362.712" y="151.638" size="1.016" layer="96" align="center-left"/>
 </instance>
-<instance part="C3" gate="G$1" x="377.952" y="150.368" smashed="yes" rot="R270">
-<attribute name="NAME" x="373.888" y="147.828" size="1.016" layer="95" rot="R270" align="center-left"/>
-<attribute name="VALUE" x="373.888" y="145.034" size="1.016" layer="96" rot="R270" align="center-left"/>
+<instance part="C3" gate="G$1" x="378.714" y="150.368" smashed="yes" rot="R270">
+<attribute name="NAME" x="374.65" y="147.828" size="1.016" layer="95" rot="R270" align="center-left"/>
+<attribute name="VALUE" x="374.65" y="145.034" size="1.016" layer="96" rot="R270" align="center-left"/>
 </instance>
 <instance part="D8" gate="G$1" x="357.378" y="151.384" smashed="yes" rot="R270">
 <attribute name="NAME" x="362.204" y="142.24" size="1.016" layer="95" rot="R270" align="center-left"/>
@@ -2286,7 +2288,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/FM4004-W.pdf"
 <attribute name="VALUE" x="58.928" y="110.744" size="1.016" layer="96" align="center-left"/>
 </instance>
 <instance part="P+1" gate="1" x="37.592" y="158.496" smashed="yes">
-<attribute name="VALUE" x="39.624" y="160.782" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="39.624" y="160.782" size="1.016" layer="96" rot="R180"/>
 </instance>
 <instance part="GND1" gate="1" x="37.592" y="99.822" smashed="yes">
 <attribute name="VALUE" x="35.814" y="98.298" size="1.016" layer="96"/>
@@ -2315,7 +2317,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/FM4004-W.pdf"
 <attribute name="VALUE" x="58.928" y="45.466" size="1.016" layer="96" align="center-left"/>
 </instance>
 <instance part="P+2" gate="1" x="37.592" y="93.218" smashed="yes">
-<attribute name="VALUE" x="39.624" y="95.504" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="39.624" y="95.504" size="1.016" layer="96" rot="R180"/>
 </instance>
 <instance part="GND2" gate="1" x="37.592" y="34.544" smashed="yes">
 <attribute name="VALUE" x="35.814" y="33.02" size="1.016" layer="96"/>
@@ -2340,7 +2342,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/FM4004-W.pdf"
 <attribute name="VALUE" x="115.57" y="110.744" size="1.016" layer="96" align="center-left"/>
 </instance>
 <instance part="P+3" gate="1" x="94.234" y="158.496" smashed="yes">
-<attribute name="VALUE" x="96.266" y="160.782" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="96.266" y="160.782" size="1.016" layer="96" rot="R180"/>
 </instance>
 <instance part="GND3" gate="1" x="94.234" y="99.822" smashed="yes">
 <attribute name="VALUE" x="92.456" y="98.298" size="1.016" layer="96"/>
@@ -2365,7 +2367,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/FM4004-W.pdf"
 <attribute name="VALUE" x="114.808" y="42.672" size="1.016" layer="96" align="center-left"/>
 </instance>
 <instance part="P+4" gate="1" x="93.472" y="90.424" smashed="yes">
-<attribute name="VALUE" x="95.504" y="92.71" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="95.504" y="92.71" size="1.016" layer="96" rot="R180"/>
 </instance>
 <instance part="GND4" gate="1" x="93.472" y="31.75" smashed="yes">
 <attribute name="VALUE" x="91.694" y="30.226" size="1.016" layer="96"/>
@@ -2394,7 +2396,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/FM4004-W.pdf"
 <attribute name="VALUE" x="168.148" y="110.49" size="1.016" layer="96" align="center-left"/>
 </instance>
 <instance part="P+5" gate="1" x="146.812" y="158.242" smashed="yes">
-<attribute name="VALUE" x="148.844" y="160.528" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="148.844" y="160.528" size="1.016" layer="96" rot="R180"/>
 </instance>
 <instance part="GND5" gate="1" x="146.812" y="99.568" smashed="yes">
 <attribute name="VALUE" x="145.034" y="98.044" size="1.016" layer="96"/>
@@ -2404,6 +2406,12 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/FM4004-W.pdf"
 </instance>
 <instance part="GND6" gate="1" x="308.102" y="134.874" smashed="yes">
 <attribute name="VALUE" x="306.324" y="133.35" size="1.016" layer="96"/>
+</instance>
+<instance part="P+7" gate="1" x="378.714" y="157.734" smashed="yes">
+<attribute name="VALUE" x="380.746" y="160.02" size="1.016" layer="96" rot="R180"/>
+</instance>
+<instance part="GND7" gate="1" x="367.538" y="132.588" smashed="yes">
+<attribute name="VALUE" x="365.76" y="131.064" size="1.016" layer="96"/>
 </instance>
 </instances>
 <busses>
@@ -2499,6 +2507,18 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/FM4004-W.pdf"
 <wire x1="137.668" y1="154.432" x2="137.668" y2="154.686" width="0.1524" layer="91"/>
 <wire x1="137.668" y1="154.686" x2="146.812" y2="154.686" width="0.1524" layer="91"/>
 </segment>
+<segment>
+<pinref part="L1" gate="G$1" pin="2"/>
+<pinref part="C3" gate="G$1" pin="+"/>
+<wire x1="377.698" y1="152.654" x2="378.714" y2="152.654" width="0.1524" layer="91"/>
+<wire x1="378.714" y1="152.654" x2="378.714" y2="150.368" width="0.1524" layer="91"/>
+<pinref part="IC1" gate="G$1" pin="FEED_BACK"/>
+<wire x1="378.714" y1="152.654" x2="378.714" y2="155.194" width="0.1524" layer="91"/>
+<wire x1="378.714" y1="155.194" x2="354.076" y2="155.194" width="0.1524" layer="91"/>
+<junction x="378.714" y="152.654"/>
+<pinref part="P+7" gate="1" pin="+5V"/>
+<junction x="378.714" y="155.194"/>
+</segment>
 </net>
 <net name="GND" class="0">
 <segment>
@@ -2535,6 +2555,27 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/FM4004-W.pdf"
 <wire x1="311.404" y1="142.494" x2="311.404" y2="137.414" width="0.1524" layer="91"/>
 <wire x1="311.404" y1="137.414" x2="308.102" y2="137.414" width="0.1524" layer="91"/>
 <junction x="308.102" y="137.414"/>
+<pinref part="IC1" gate="G$1" pin="GND"/>
+<pinref part="IC1" gate="G$1" pin="!ON_!/_OFF"/>
+<wire x1="315.976" y1="152.654" x2="315.976" y2="150.114" width="0.1524" layer="91"/>
+<wire x1="315.976" y1="150.114" x2="315.976" y2="137.414" width="0.1524" layer="91"/>
+<wire x1="315.976" y1="137.414" x2="311.404" y2="137.414" width="0.1524" layer="91"/>
+<junction x="315.976" y="150.114"/>
+<junction x="311.404" y="137.414"/>
+</segment>
+<segment>
+<pinref part="IC1" gate="G$1" pin="TAB_(GND)"/>
+<pinref part="D8" gate="G$1" pin="A"/>
+<wire x1="354.076" y1="147.574" x2="354.076" y2="136.144" width="0.1524" layer="91"/>
+<wire x1="354.076" y1="136.144" x2="357.378" y2="136.144" width="0.1524" layer="91"/>
+<pinref part="GND7" gate="1" pin="GND"/>
+<wire x1="357.378" y1="136.144" x2="367.538" y2="136.144" width="0.1524" layer="91"/>
+<wire x1="367.538" y1="136.144" x2="367.538" y2="135.128" width="0.1524" layer="91"/>
+<junction x="357.378" y="136.144"/>
+<pinref part="C3" gate="G$1" pin="-"/>
+<wire x1="367.538" y1="136.144" x2="378.714" y2="136.144" width="0.1524" layer="91"/>
+<wire x1="378.714" y1="136.144" x2="378.714" y2="137.668" width="0.1524" layer="91"/>
+<junction x="367.538" y="136.144"/>
 </segment>
 </net>
 <net name="IN2" class="0">
@@ -2700,6 +2741,16 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/FM4004-W.pdf"
 <pinref part="IC1" gate="G$1" pin="VIN"/>
 <wire x1="311.404" y1="155.194" x2="315.976" y2="155.194" width="0.1524" layer="91"/>
 <junction x="311.404" y="155.194"/>
+</segment>
+</net>
+<net name="N$18" class="0">
+<segment>
+<pinref part="IC1" gate="G$1" pin="OUTPUT"/>
+<pinref part="L1" gate="G$1" pin="1"/>
+<wire x1="354.076" y1="152.654" x2="357.378" y2="152.654" width="0.1524" layer="91"/>
+<pinref part="D8" gate="G$1" pin="K"/>
+<wire x1="357.378" y1="151.384" x2="357.378" y2="152.654" width="0.1524" layer="91"/>
+<junction x="357.378" y="152.654"/>
 </segment>
 </net>
 </nets>
