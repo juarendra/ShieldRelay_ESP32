@@ -789,9 +789,9 @@ DIN A4, landscape with location and doc. field</description>
 <pad name="RSV1" x="11.43" y="-11.43" drill="0.8" shape="long"/>
 <pad name="RSV2" x="11.43" y="-13.97" drill="0.8" shape="long"/>
 <pad name="A0" x="11.43" y="-16.51" drill="0.8" shape="long"/>
-<pad name="3V3@1" x="-11.43" y="19.05" drill="0.8" shape="long"/>
-<pad name="GND@1" x="-11.43" y="16.51" drill="0.8" shape="long"/>
-<pad name="TX" x="-11.43" y="13.97" drill="0.8" shape="long"/>
+<pad name="3V3@1" x="-11.43" y="19.05" drill="0.8"/>
+<pad name="GND@1" x="-11.43" y="16.51" drill="0.8"/>
+<pad name="TX" x="-11.43" y="13.97" drill="0.8"/>
 <pad name="RX" x="-11.43" y="11.43" drill="0.8" shape="long"/>
 <pad name="D8" x="-11.43" y="8.89" drill="0.8" shape="long"/>
 <pad name="D7" x="-11.43" y="6.35" drill="0.8" shape="long"/>
