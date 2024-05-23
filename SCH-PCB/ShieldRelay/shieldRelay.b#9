@@ -1497,57 +1497,57 @@ design rules under a new name.</description>
 <attribute name="NAME" x="71.571" y="93.643" size="1.27" layer="25" rot="R270" align="center"/>
 <attribute name="VALUE" x="71.571" y="93.643" size="1.27" layer="27" rot="R270" align="center"/>
 </element>
-<element name="Q1" library="MMST2222A-7-F" package="SOT65P210X110-3N" value="MMST2222A-7-F" x="37.084" y="62.23" smashed="yes" rot="R90">
-<attribute name="DESCRIPTION" value="Bipolar (BJT) Transistor NPN 40 V 600 mA 300MHz 200 mW Surface Mount SOT-323" x="37.084" y="62.23" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="HEIGHT" value="1.1mm" x="37.084" y="62.23" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MANUFACTURER_NAME" value="Diodes Incorporated" x="37.084" y="62.23" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MMST2222A-7-F" x="37.084" y="62.23" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MOUSER_PART_NUMBER" value="621-MMST2222A-F" x="37.084" y="62.23" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/MMST2222A-7-F?qs=B0AElM0L7fPu4CagNNXsRQ%3D%3D" x="37.084" y="62.23" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="37.084" y="62.23" size="1.27" layer="25" rot="R90" align="center"/>
-<attribute name="VALUE" x="37.084" y="62.23" size="1.27" layer="27" rot="R90" align="center"/>
+<element name="Q1" library="MMST2222A-7-F" package="SOT65P210X110-3N" value="MMST2222A-7-F" x="36.322" y="62.992" smashed="yes" rot="R90">
+<attribute name="DESCRIPTION" value="Bipolar (BJT) Transistor NPN 40 V 600 mA 300MHz 200 mW Surface Mount SOT-323" x="36.322" y="62.992" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="HEIGHT" value="1.1mm" x="36.322" y="62.992" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_NAME" value="Diodes Incorporated" x="36.322" y="62.992" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MMST2222A-7-F" x="36.322" y="62.992" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MOUSER_PART_NUMBER" value="621-MMST2222A-F" x="36.322" y="62.992" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/MMST2222A-7-F?qs=B0AElM0L7fPu4CagNNXsRQ%3D%3D" x="36.322" y="62.992" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="36.322" y="62.992" size="1.27" layer="25" rot="R90" align="center"/>
+<attribute name="VALUE" x="36.322" y="62.992" size="1.27" layer="27" rot="R90" align="center"/>
 </element>
-<element name="LED6" library="SamacSys_Parts" library_urn="urn:adsk.eagle:library:22641528" package="LEDC2012X80N" package3d_urn="urn:adsk.eagle:package:22724977/2" value="150080SS75000" x="41.148" y="59.944" smashed="yes">
-<attribute name="DESCRIPTION" value="Wurth Elektronik 150080SS75000, WL-SMCW Series Red LED, 630 nm, 2012 (0805) Clear, Rectangle Lens SMD Package" x="38.608" y="63.754" size="1.778" layer="27" display="off"/>
-<attribute name="DIGIKEY_PARTNUMBER" value="732-4985-1-ND" x="38.608" y="63.754" size="1.778" layer="27" display="off"/>
-<attribute name="DIGIKEY_PRICE-STOCK" value="https://www.digikey.com/product-detail/en/w%C3%BCrth-elektronik/150080SS75000/732-4985-1-ND/4489919" x="38.608" y="63.754" size="1.778" layer="27" display="off"/>
-<attribute name="HEIGHT" value="0.8mm" x="38.608" y="63.754" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_NAME" value="Wurth Elektronik" x="38.608" y="63.754" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="150080SS75000" x="38.608" y="63.754" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PART_NUMBER" value="710-150080SS75000" x="38.608" y="63.754" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150080SS75000?qs=LlUlMxKIyB2zzpiaOzrUdw%3D%3D" x="38.608" y="63.754" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="41.148" y="59.944" size="1.27" layer="25" align="center"/>
-<attribute name="VALUE" x="41.148" y="59.944" size="1.27" layer="27" align="center"/>
+<element name="LED6" library="SamacSys_Parts" library_urn="urn:adsk.eagle:library:22641528" package="LEDC2012X80N" package3d_urn="urn:adsk.eagle:package:22724977/2" value="150080SS75000" x="41.148" y="65.532" smashed="yes">
+<attribute name="DESCRIPTION" value="Wurth Elektronik 150080SS75000, WL-SMCW Series Red LED, 630 nm, 2012 (0805) Clear, Rectangle Lens SMD Package" x="38.608" y="69.342" size="1.778" layer="27" display="off"/>
+<attribute name="DIGIKEY_PARTNUMBER" value="732-4985-1-ND" x="38.608" y="69.342" size="1.778" layer="27" display="off"/>
+<attribute name="DIGIKEY_PRICE-STOCK" value="https://www.digikey.com/product-detail/en/w%C3%BCrth-elektronik/150080SS75000/732-4985-1-ND/4489919" x="38.608" y="69.342" size="1.778" layer="27" display="off"/>
+<attribute name="HEIGHT" value="0.8mm" x="38.608" y="69.342" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_NAME" value="Wurth Elektronik" x="38.608" y="69.342" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="150080SS75000" x="38.608" y="69.342" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PART_NUMBER" value="710-150080SS75000" x="38.608" y="69.342" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150080SS75000?qs=LlUlMxKIyB2zzpiaOzrUdw%3D%3D" x="38.608" y="69.342" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="41.148" y="65.532" size="1.27" layer="25" align="center"/>
+<attribute name="VALUE" x="41.148" y="65.532" size="1.27" layer="27" align="center"/>
 </element>
-<element name="R1" library="ERA-3AED102V" package="ERA3AEB101V" value="1k" x="44.704" y="59.944" smashed="yes">
-<attribute name="DESCRIPTION" value="Thin Film Resistors - SMD 0603 1000ohms 25ppm 0.5% AEC-Q200" x="44.704" y="59.944" size="1.778" layer="27" display="off"/>
-<attribute name="HEIGHT" value="0.55mm" x="44.704" y="59.944" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_NAME" value="Panasonic" x="44.704" y="59.944" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="ERA-3AED102V" x="44.704" y="59.944" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PART_NUMBER" value="667-ERA-3AED102V" x="44.704" y="59.944" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-3AED102V?qs=yocZuyCaXdNrh6oeFjCchg%3D%3D" x="44.704" y="59.944" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="44.704" y="59.944" size="1.27" layer="25" align="center"/>
-<attribute name="VALUE" x="44.704" y="59.944" size="1.27" layer="27" align="center"/>
+<element name="R1" library="ERA-3AED102V" package="ERA3AEB101V" value="1k" x="44.704" y="65.532" smashed="yes">
+<attribute name="DESCRIPTION" value="Thin Film Resistors - SMD 0603 1000ohms 25ppm 0.5% AEC-Q200" x="44.704" y="65.532" size="1.778" layer="27" display="off"/>
+<attribute name="HEIGHT" value="0.55mm" x="44.704" y="65.532" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_NAME" value="Panasonic" x="44.704" y="65.532" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="ERA-3AED102V" x="44.704" y="65.532" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PART_NUMBER" value="667-ERA-3AED102V" x="44.704" y="65.532" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-3AED102V?qs=yocZuyCaXdNrh6oeFjCchg%3D%3D" x="44.704" y="65.532" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="44.704" y="65.532" size="1.27" layer="25" align="center"/>
+<attribute name="VALUE" x="44.704" y="65.532" size="1.27" layer="27" align="center"/>
 </element>
-<element name="D1" library="FM4004-W" package="DIONM5025X231N" value="FM4004-W" x="33.528" y="61.976" smashed="yes" rot="R270">
-<attribute name="DESCRIPTION" value="Rectifiers 1N4004 1A 400V" x="33.528" y="61.976" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="HEIGHT" value="2.31mm" x="33.528" y="61.976" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MANUFACTURER_NAME" value="Rectron" x="33.528" y="61.976" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="FM4004-W" x="33.528" y="61.976" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MOUSER_PART_NUMBER" value="583-FM4004" x="33.528" y="61.976" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Rectron/FM4004-W?qs=Iw9Ubr57Px3IHNH1bE4l9w%3D%3D" x="33.528" y="61.976" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="33.528" y="61.976" size="1.27" layer="25" rot="R270" align="center"/>
-<attribute name="VALUE" x="33.528" y="61.976" size="1.27" layer="27" rot="R270" align="center"/>
+<element name="D1" library="FM4004-W" package="DIONM5025X231N" value="FM4004-W" x="32.766" y="62.738" smashed="yes" rot="R270">
+<attribute name="DESCRIPTION" value="Rectifiers 1N4004 1A 400V" x="32.766" y="62.738" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="HEIGHT" value="2.31mm" x="32.766" y="62.738" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MANUFACTURER_NAME" value="Rectron" x="32.766" y="62.738" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="FM4004-W" x="32.766" y="62.738" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MOUSER_PART_NUMBER" value="583-FM4004" x="32.766" y="62.738" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Rectron/FM4004-W?qs=Iw9Ubr57Px3IHNH1bE4l9w%3D%3D" x="32.766" y="62.738" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="32.766" y="62.738" size="1.27" layer="25" rot="R270" align="center"/>
+<attribute name="VALUE" x="32.766" y="62.738" size="1.27" layer="27" rot="R270" align="center"/>
 </element>
-<element name="R2" library="ERA-3AED102V" package="ERA3AEB101V" value="1k" x="37.084" y="59.944" smashed="yes">
-<attribute name="DESCRIPTION" value="Thin Film Resistors - SMD 0603 1000ohms 25ppm 0.5% AEC-Q200" x="37.084" y="59.944" size="1.778" layer="27" display="off"/>
-<attribute name="HEIGHT" value="0.55mm" x="37.084" y="59.944" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_NAME" value="Panasonic" x="37.084" y="59.944" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="ERA-3AED102V" x="37.084" y="59.944" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PART_NUMBER" value="667-ERA-3AED102V" x="37.084" y="59.944" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-3AED102V?qs=yocZuyCaXdNrh6oeFjCchg%3D%3D" x="37.084" y="59.944" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="37.084" y="58.674" size="1.27" layer="25" align="center"/>
-<attribute name="VALUE" x="37.084" y="59.944" size="1.27" layer="27" align="center"/>
+<element name="R2" library="ERA-3AED102V" package="ERA3AEB101V" value="1k" x="36.322" y="60.706" smashed="yes">
+<attribute name="DESCRIPTION" value="Thin Film Resistors - SMD 0603 1000ohms 25ppm 0.5% AEC-Q200" x="36.322" y="60.706" size="1.778" layer="27" display="off"/>
+<attribute name="HEIGHT" value="0.55mm" x="36.322" y="60.706" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_NAME" value="Panasonic" x="36.322" y="60.706" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="ERA-3AED102V" x="36.322" y="60.706" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PART_NUMBER" value="667-ERA-3AED102V" x="36.322" y="60.706" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-3AED102V?qs=yocZuyCaXdNrh6oeFjCchg%3D%3D" x="36.322" y="60.706" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="36.322" y="59.436" size="1.27" layer="25" align="center"/>
+<attribute name="VALUE" x="36.322" y="60.706" size="1.27" layer="27" align="center"/>
 </element>
 <element name="K6" library="SRD-05VDC-SL-C" package="SRD05VDCSLC" value="SRD-05VDC-SL-C" x="26.67" y="50.292" smashed="yes" rot="R180">
 <attribute name="ARROW_PART_NUMBER" value="" x="26.67" y="50.292" size="1.778" layer="27" rot="R180" display="off"/>
@@ -1561,161 +1561,161 @@ design rules under a new name.</description>
 <attribute name="NAME" x="20.62" y="44.292" size="1.27" layer="25" rot="R180" align="center"/>
 <attribute name="VALUE" x="20.62" y="44.292" size="1.27" layer="27" rot="R180" align="center"/>
 </element>
-<element name="Q2" library="MMST2222A-7-F" package="SOT65P210X110-3N" value="MMST2222A-7-F" x="37.084" y="57.658" smashed="yes" rot="R90">
-<attribute name="DESCRIPTION" value="Bipolar (BJT) Transistor NPN 40 V 600 mA 300MHz 200 mW Surface Mount SOT-323" x="33.274" y="55.118" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="HEIGHT" value="1.1mm" x="33.274" y="55.118" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MANUFACTURER_NAME" value="Diodes Incorporated" x="33.274" y="55.118" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MMST2222A-7-F" x="33.274" y="55.118" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MOUSER_PART_NUMBER" value="621-MMST2222A-F" x="33.274" y="55.118" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/MMST2222A-7-F?qs=B0AElM0L7fPu4CagNNXsRQ%3D%3D" x="33.274" y="55.118" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="37.084" y="57.658" size="1.27" layer="25" rot="R90" align="center"/>
-<attribute name="VALUE" x="37.084" y="57.658" size="1.27" layer="27" rot="R90" align="center"/>
+<element name="Q2" library="MMST2222A-7-F" package="SOT65P210X110-3N" value="MMST2222A-7-F" x="36.322" y="58.42" smashed="yes" rot="R90">
+<attribute name="DESCRIPTION" value="Bipolar (BJT) Transistor NPN 40 V 600 mA 300MHz 200 mW Surface Mount SOT-323" x="32.512" y="55.88" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="HEIGHT" value="1.1mm" x="32.512" y="55.88" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_NAME" value="Diodes Incorporated" x="32.512" y="55.88" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MMST2222A-7-F" x="32.512" y="55.88" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MOUSER_PART_NUMBER" value="621-MMST2222A-F" x="32.512" y="55.88" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/MMST2222A-7-F?qs=B0AElM0L7fPu4CagNNXsRQ%3D%3D" x="32.512" y="55.88" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="36.322" y="58.42" size="1.27" layer="25" rot="R90" align="center"/>
+<attribute name="VALUE" x="36.322" y="58.42" size="1.27" layer="27" rot="R90" align="center"/>
 </element>
-<element name="LED1" library="SamacSys_Parts" library_urn="urn:adsk.eagle:library:22641528" package="LEDC2012X80N" package3d_urn="urn:adsk.eagle:package:22724977/2" value="150080SS75000" x="41.148" y="57.404" smashed="yes">
-<attribute name="DESCRIPTION" value="Wurth Elektronik 150080SS75000, WL-SMCW Series Red LED, 630 nm, 2012 (0805) Clear, Rectangle Lens SMD Package" x="36.068" y="61.214" size="1.778" layer="27" display="off"/>
-<attribute name="DIGIKEY_PARTNUMBER" value="732-4985-1-ND" x="36.068" y="61.214" size="1.778" layer="27" display="off"/>
-<attribute name="DIGIKEY_PRICE-STOCK" value="https://www.digikey.com/product-detail/en/w%C3%BCrth-elektronik/150080SS75000/732-4985-1-ND/4489919" x="36.068" y="61.214" size="1.778" layer="27" display="off"/>
-<attribute name="HEIGHT" value="0.8mm" x="36.068" y="61.214" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_NAME" value="Wurth Elektronik" x="36.068" y="61.214" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="150080SS75000" x="36.068" y="61.214" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PART_NUMBER" value="710-150080SS75000" x="36.068" y="61.214" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150080SS75000?qs=LlUlMxKIyB2zzpiaOzrUdw%3D%3D" x="36.068" y="61.214" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="41.148" y="57.404" size="1.27" layer="25" align="center"/>
-<attribute name="VALUE" x="41.148" y="57.404" size="1.27" layer="27" align="center"/>
+<element name="LED1" library="SamacSys_Parts" library_urn="urn:adsk.eagle:library:22641528" package="LEDC2012X80N" package3d_urn="urn:adsk.eagle:package:22724977/2" value="150080SS75000" x="41.148" y="62.992" smashed="yes">
+<attribute name="DESCRIPTION" value="Wurth Elektronik 150080SS75000, WL-SMCW Series Red LED, 630 nm, 2012 (0805) Clear, Rectangle Lens SMD Package" x="36.068" y="66.802" size="1.778" layer="27" display="off"/>
+<attribute name="DIGIKEY_PARTNUMBER" value="732-4985-1-ND" x="36.068" y="66.802" size="1.778" layer="27" display="off"/>
+<attribute name="DIGIKEY_PRICE-STOCK" value="https://www.digikey.com/product-detail/en/w%C3%BCrth-elektronik/150080SS75000/732-4985-1-ND/4489919" x="36.068" y="66.802" size="1.778" layer="27" display="off"/>
+<attribute name="HEIGHT" value="0.8mm" x="36.068" y="66.802" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_NAME" value="Wurth Elektronik" x="36.068" y="66.802" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="150080SS75000" x="36.068" y="66.802" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PART_NUMBER" value="710-150080SS75000" x="36.068" y="66.802" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150080SS75000?qs=LlUlMxKIyB2zzpiaOzrUdw%3D%3D" x="36.068" y="66.802" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="41.148" y="62.992" size="1.27" layer="25" align="center"/>
+<attribute name="VALUE" x="41.148" y="62.992" size="1.27" layer="27" align="center"/>
 </element>
-<element name="R3" library="ERA-3AED102V" package="ERA3AEB101V" value="1k" x="44.704" y="57.404" smashed="yes">
-<attribute name="DESCRIPTION" value="Thin Film Resistors - SMD 0603 1000ohms 25ppm 0.5% AEC-Q200" x="28.194" y="58.674" size="1.778" layer="27" display="off"/>
-<attribute name="HEIGHT" value="0.55mm" x="28.194" y="58.674" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_NAME" value="Panasonic" x="28.194" y="58.674" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="ERA-3AED102V" x="28.194" y="58.674" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PART_NUMBER" value="667-ERA-3AED102V" x="28.194" y="58.674" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-3AED102V?qs=yocZuyCaXdNrh6oeFjCchg%3D%3D" x="28.194" y="58.674" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="44.704" y="57.404" size="1.27" layer="25" align="center"/>
-<attribute name="VALUE" x="44.704" y="57.404" size="1.27" layer="27" align="center"/>
+<element name="R3" library="ERA-3AED102V" package="ERA3AEB101V" value="1k" x="44.704" y="62.992" smashed="yes">
+<attribute name="DESCRIPTION" value="Thin Film Resistors - SMD 0603 1000ohms 25ppm 0.5% AEC-Q200" x="28.194" y="64.262" size="1.778" layer="27" display="off"/>
+<attribute name="HEIGHT" value="0.55mm" x="28.194" y="64.262" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_NAME" value="Panasonic" x="28.194" y="64.262" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="ERA-3AED102V" x="28.194" y="64.262" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PART_NUMBER" value="667-ERA-3AED102V" x="28.194" y="64.262" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-3AED102V?qs=yocZuyCaXdNrh6oeFjCchg%3D%3D" x="28.194" y="64.262" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="44.704" y="62.992" size="1.27" layer="25" align="center"/>
+<attribute name="VALUE" x="44.704" y="62.992" size="1.27" layer="27" align="center"/>
 </element>
-<element name="D2" library="FM4004-W" package="DIONM5025X231N" value="FM4004-W" x="33.528" y="55.118" smashed="yes" rot="R270">
-<attribute name="DESCRIPTION" value="Rectifiers 1N4004 1A 400V" x="23.368" y="60.198" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="HEIGHT" value="2.31mm" x="23.368" y="60.198" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MANUFACTURER_NAME" value="Rectron" x="23.368" y="60.198" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="FM4004-W" x="23.368" y="60.198" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MOUSER_PART_NUMBER" value="583-FM4004" x="23.368" y="60.198" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Rectron/FM4004-W?qs=Iw9Ubr57Px3IHNH1bE4l9w%3D%3D" x="23.368" y="60.198" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="33.528" y="55.118" size="1.27" layer="25" rot="R270" align="center"/>
-<attribute name="VALUE" x="33.528" y="55.118" size="1.27" layer="27" rot="R270" align="center"/>
+<element name="D2" library="FM4004-W" package="DIONM5025X231N" value="FM4004-W" x="32.766" y="55.88" smashed="yes" rot="R270">
+<attribute name="DESCRIPTION" value="Rectifiers 1N4004 1A 400V" x="22.606" y="60.96" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="HEIGHT" value="2.31mm" x="22.606" y="60.96" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MANUFACTURER_NAME" value="Rectron" x="22.606" y="60.96" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="FM4004-W" x="22.606" y="60.96" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MOUSER_PART_NUMBER" value="583-FM4004" x="22.606" y="60.96" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Rectron/FM4004-W?qs=Iw9Ubr57Px3IHNH1bE4l9w%3D%3D" x="22.606" y="60.96" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="32.766" y="55.88" size="1.27" layer="25" rot="R270" align="center"/>
+<attribute name="VALUE" x="32.766" y="55.88" size="1.27" layer="27" rot="R270" align="center"/>
 </element>
-<element name="R4" library="ERA-3AED102V" package="ERA3AEB101V" value="1k" x="37.084" y="55.372" smashed="yes">
-<attribute name="DESCRIPTION" value="Thin Film Resistors - SMD 0603 1000ohms 25ppm 0.5% AEC-Q200" x="16.764" y="49.022" size="1.778" layer="27" display="off"/>
-<attribute name="HEIGHT" value="0.55mm" x="16.764" y="49.022" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_NAME" value="Panasonic" x="16.764" y="49.022" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="ERA-3AED102V" x="16.764" y="49.022" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PART_NUMBER" value="667-ERA-3AED102V" x="16.764" y="49.022" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-3AED102V?qs=yocZuyCaXdNrh6oeFjCchg%3D%3D" x="16.764" y="49.022" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="37.084" y="55.372" size="1.27" layer="25" align="center"/>
-<attribute name="VALUE" x="37.084" y="55.372" size="1.27" layer="27" align="center"/>
+<element name="R4" library="ERA-3AED102V" package="ERA3AEB101V" value="1k" x="36.322" y="56.134" smashed="yes">
+<attribute name="DESCRIPTION" value="Thin Film Resistors - SMD 0603 1000ohms 25ppm 0.5% AEC-Q200" x="16.002" y="49.784" size="1.778" layer="27" display="off"/>
+<attribute name="HEIGHT" value="0.55mm" x="16.002" y="49.784" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_NAME" value="Panasonic" x="16.002" y="49.784" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="ERA-3AED102V" x="16.002" y="49.784" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PART_NUMBER" value="667-ERA-3AED102V" x="16.002" y="49.784" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-3AED102V?qs=yocZuyCaXdNrh6oeFjCchg%3D%3D" x="16.002" y="49.784" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="36.322" y="56.134" size="1.27" layer="25" align="center"/>
+<attribute name="VALUE" x="36.322" y="56.134" size="1.27" layer="27" align="center"/>
 </element>
-<element name="Q3" library="MMST2222A-7-F" package="SOT65P210X110-3N" value="MMST2222A-7-F" x="37.084" y="66.802" smashed="yes" rot="R90">
-<attribute name="DESCRIPTION" value="Bipolar (BJT) Transistor NPN 40 V 600 mA 300MHz 200 mW Surface Mount SOT-323" x="33.274" y="64.262" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="HEIGHT" value="1.1mm" x="33.274" y="64.262" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MANUFACTURER_NAME" value="Diodes Incorporated" x="33.274" y="64.262" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MMST2222A-7-F" x="33.274" y="64.262" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MOUSER_PART_NUMBER" value="621-MMST2222A-F" x="33.274" y="64.262" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/MMST2222A-7-F?qs=B0AElM0L7fPu4CagNNXsRQ%3D%3D" x="33.274" y="64.262" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="37.084" y="66.802" size="1.27" layer="25" rot="R90" align="center"/>
-<attribute name="VALUE" x="37.084" y="66.802" size="1.27" layer="27" rot="R90" align="center"/>
+<element name="Q3" library="MMST2222A-7-F" package="SOT65P210X110-3N" value="MMST2222A-7-F" x="36.322" y="67.564" smashed="yes" rot="R90">
+<attribute name="DESCRIPTION" value="Bipolar (BJT) Transistor NPN 40 V 600 mA 300MHz 200 mW Surface Mount SOT-323" x="32.512" y="65.024" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="HEIGHT" value="1.1mm" x="32.512" y="65.024" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_NAME" value="Diodes Incorporated" x="32.512" y="65.024" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MMST2222A-7-F" x="32.512" y="65.024" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MOUSER_PART_NUMBER" value="621-MMST2222A-F" x="32.512" y="65.024" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/MMST2222A-7-F?qs=B0AElM0L7fPu4CagNNXsRQ%3D%3D" x="32.512" y="65.024" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="36.322" y="67.564" size="1.27" layer="25" rot="R90" align="center"/>
+<attribute name="VALUE" x="36.322" y="67.564" size="1.27" layer="27" rot="R90" align="center"/>
 </element>
-<element name="LED2" library="SamacSys_Parts" library_urn="urn:adsk.eagle:library:22641528" package="LEDC2012X80N" package3d_urn="urn:adsk.eagle:package:22724977/2" value="150080SS75000" x="41.148" y="62.484" smashed="yes">
-<attribute name="DESCRIPTION" value="Wurth Elektronik 150080SS75000, WL-SMCW Series Red LED, 630 nm, 2012 (0805) Clear, Rectangle Lens SMD Package" x="36.068" y="66.294" size="1.778" layer="27" display="off"/>
-<attribute name="DIGIKEY_PARTNUMBER" value="732-4985-1-ND" x="36.068" y="66.294" size="1.778" layer="27" display="off"/>
-<attribute name="DIGIKEY_PRICE-STOCK" value="https://www.digikey.com/product-detail/en/w%C3%BCrth-elektronik/150080SS75000/732-4985-1-ND/4489919" x="36.068" y="66.294" size="1.778" layer="27" display="off"/>
-<attribute name="HEIGHT" value="0.8mm" x="36.068" y="66.294" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_NAME" value="Wurth Elektronik" x="36.068" y="66.294" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="150080SS75000" x="36.068" y="66.294" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PART_NUMBER" value="710-150080SS75000" x="36.068" y="66.294" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150080SS75000?qs=LlUlMxKIyB2zzpiaOzrUdw%3D%3D" x="36.068" y="66.294" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="41.148" y="62.484" size="1.27" layer="25" align="center"/>
-<attribute name="VALUE" x="41.148" y="62.484" size="1.27" layer="27" align="center"/>
+<element name="LED2" library="SamacSys_Parts" library_urn="urn:adsk.eagle:library:22641528" package="LEDC2012X80N" package3d_urn="urn:adsk.eagle:package:22724977/2" value="150080SS75000" x="41.148" y="68.072" smashed="yes">
+<attribute name="DESCRIPTION" value="Wurth Elektronik 150080SS75000, WL-SMCW Series Red LED, 630 nm, 2012 (0805) Clear, Rectangle Lens SMD Package" x="36.068" y="71.882" size="1.778" layer="27" display="off"/>
+<attribute name="DIGIKEY_PARTNUMBER" value="732-4985-1-ND" x="36.068" y="71.882" size="1.778" layer="27" display="off"/>
+<attribute name="DIGIKEY_PRICE-STOCK" value="https://www.digikey.com/product-detail/en/w%C3%BCrth-elektronik/150080SS75000/732-4985-1-ND/4489919" x="36.068" y="71.882" size="1.778" layer="27" display="off"/>
+<attribute name="HEIGHT" value="0.8mm" x="36.068" y="71.882" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_NAME" value="Wurth Elektronik" x="36.068" y="71.882" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="150080SS75000" x="36.068" y="71.882" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PART_NUMBER" value="710-150080SS75000" x="36.068" y="71.882" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150080SS75000?qs=LlUlMxKIyB2zzpiaOzrUdw%3D%3D" x="36.068" y="71.882" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="41.148" y="68.072" size="1.27" layer="25" align="center"/>
+<attribute name="VALUE" x="41.148" y="68.072" size="1.27" layer="27" align="center"/>
 </element>
-<element name="R5" library="ERA-3AED102V" package="ERA3AEB101V" value="1k" x="44.704" y="62.484" smashed="yes">
-<attribute name="DESCRIPTION" value="Thin Film Resistors - SMD 0603 1000ohms 25ppm 0.5% AEC-Q200" x="28.194" y="63.754" size="1.778" layer="27" display="off"/>
-<attribute name="HEIGHT" value="0.55mm" x="28.194" y="63.754" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_NAME" value="Panasonic" x="28.194" y="63.754" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="ERA-3AED102V" x="28.194" y="63.754" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PART_NUMBER" value="667-ERA-3AED102V" x="28.194" y="63.754" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-3AED102V?qs=yocZuyCaXdNrh6oeFjCchg%3D%3D" x="28.194" y="63.754" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="44.704" y="62.484" size="1.27" layer="25" align="center"/>
-<attribute name="VALUE" x="44.704" y="62.484" size="1.27" layer="27" align="center"/>
+<element name="R5" library="ERA-3AED102V" package="ERA3AEB101V" value="1k" x="44.704" y="68.072" smashed="yes">
+<attribute name="DESCRIPTION" value="Thin Film Resistors - SMD 0603 1000ohms 25ppm 0.5% AEC-Q200" x="28.194" y="69.342" size="1.778" layer="27" display="off"/>
+<attribute name="HEIGHT" value="0.55mm" x="28.194" y="69.342" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_NAME" value="Panasonic" x="28.194" y="69.342" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="ERA-3AED102V" x="28.194" y="69.342" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PART_NUMBER" value="667-ERA-3AED102V" x="28.194" y="69.342" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-3AED102V?qs=yocZuyCaXdNrh6oeFjCchg%3D%3D" x="28.194" y="69.342" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="44.704" y="68.072" size="1.27" layer="25" align="center"/>
+<attribute name="VALUE" x="44.704" y="68.072" size="1.27" layer="27" align="center"/>
 </element>
-<element name="D3" library="FM4004-W" package="DIONM5025X231N" value="FM4004-W" x="33.528" y="68.834" smashed="yes" rot="R270">
-<attribute name="DESCRIPTION" value="Rectifiers 1N4004 1A 400V" x="23.368" y="73.914" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="HEIGHT" value="2.31mm" x="23.368" y="73.914" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MANUFACTURER_NAME" value="Rectron" x="23.368" y="73.914" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="FM4004-W" x="23.368" y="73.914" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MOUSER_PART_NUMBER" value="583-FM4004" x="23.368" y="73.914" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Rectron/FM4004-W?qs=Iw9Ubr57Px3IHNH1bE4l9w%3D%3D" x="23.368" y="73.914" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="33.528" y="68.834" size="1.27" layer="25" rot="R270" align="center"/>
-<attribute name="VALUE" x="33.528" y="68.834" size="1.27" layer="27" rot="R270" align="center"/>
+<element name="D3" library="FM4004-W" package="DIONM5025X231N" value="FM4004-W" x="32.766" y="69.596" smashed="yes" rot="R270">
+<attribute name="DESCRIPTION" value="Rectifiers 1N4004 1A 400V" x="22.606" y="74.676" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="HEIGHT" value="2.31mm" x="22.606" y="74.676" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MANUFACTURER_NAME" value="Rectron" x="22.606" y="74.676" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="FM4004-W" x="22.606" y="74.676" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MOUSER_PART_NUMBER" value="583-FM4004" x="22.606" y="74.676" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Rectron/FM4004-W?qs=Iw9Ubr57Px3IHNH1bE4l9w%3D%3D" x="22.606" y="74.676" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="32.766" y="69.596" size="1.27" layer="25" rot="R270" align="center"/>
+<attribute name="VALUE" x="32.766" y="69.596" size="1.27" layer="27" rot="R270" align="center"/>
 </element>
-<element name="R6" library="ERA-3AED102V" package="ERA3AEB101V" value="1k" x="37.084" y="64.516" smashed="yes">
-<attribute name="DESCRIPTION" value="Thin Film Resistors - SMD 0603 1000ohms 25ppm 0.5% AEC-Q200" x="16.764" y="58.166" size="1.778" layer="27" display="off"/>
-<attribute name="HEIGHT" value="0.55mm" x="16.764" y="58.166" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_NAME" value="Panasonic" x="16.764" y="58.166" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="ERA-3AED102V" x="16.764" y="58.166" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PART_NUMBER" value="667-ERA-3AED102V" x="16.764" y="58.166" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-3AED102V?qs=yocZuyCaXdNrh6oeFjCchg%3D%3D" x="16.764" y="58.166" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="37.084" y="64.516" size="1.27" layer="25" align="center"/>
-<attribute name="VALUE" x="37.084" y="64.516" size="1.27" layer="27" align="center"/>
+<element name="R6" library="ERA-3AED102V" package="ERA3AEB101V" value="1k" x="36.322" y="65.278" smashed="yes">
+<attribute name="DESCRIPTION" value="Thin Film Resistors - SMD 0603 1000ohms 25ppm 0.5% AEC-Q200" x="16.002" y="58.928" size="1.778" layer="27" display="off"/>
+<attribute name="HEIGHT" value="0.55mm" x="16.002" y="58.928" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_NAME" value="Panasonic" x="16.002" y="58.928" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="ERA-3AED102V" x="16.002" y="58.928" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PART_NUMBER" value="667-ERA-3AED102V" x="16.002" y="58.928" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-3AED102V?qs=yocZuyCaXdNrh6oeFjCchg%3D%3D" x="16.002" y="58.928" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="36.322" y="65.278" size="1.27" layer="25" align="center"/>
+<attribute name="VALUE" x="36.322" y="65.278" size="1.27" layer="27" align="center"/>
 </element>
-<element name="Q4" library="MMST2222A-7-F" package="SOT65P210X110-3N" value="MMST2222A-7-F" x="37.084" y="53.086" smashed="yes" rot="R90">
-<attribute name="DESCRIPTION" value="Bipolar (BJT) Transistor NPN 40 V 600 mA 300MHz 200 mW Surface Mount SOT-323" x="33.274" y="50.546" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="HEIGHT" value="1.1mm" x="33.274" y="50.546" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MANUFACTURER_NAME" value="Diodes Incorporated" x="33.274" y="50.546" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MMST2222A-7-F" x="33.274" y="50.546" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MOUSER_PART_NUMBER" value="621-MMST2222A-F" x="33.274" y="50.546" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/MMST2222A-7-F?qs=B0AElM0L7fPu4CagNNXsRQ%3D%3D" x="33.274" y="50.546" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="37.084" y="53.086" size="1.27" layer="25" rot="R90" align="center"/>
-<attribute name="VALUE" x="37.084" y="53.086" size="1.27" layer="27" rot="R90" align="center"/>
+<element name="Q4" library="MMST2222A-7-F" package="SOT65P210X110-3N" value="MMST2222A-7-F" x="36.322" y="53.848" smashed="yes" rot="R90">
+<attribute name="DESCRIPTION" value="Bipolar (BJT) Transistor NPN 40 V 600 mA 300MHz 200 mW Surface Mount SOT-323" x="32.512" y="51.308" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="HEIGHT" value="1.1mm" x="32.512" y="51.308" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_NAME" value="Diodes Incorporated" x="32.512" y="51.308" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MMST2222A-7-F" x="32.512" y="51.308" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MOUSER_PART_NUMBER" value="621-MMST2222A-F" x="32.512" y="51.308" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/MMST2222A-7-F?qs=B0AElM0L7fPu4CagNNXsRQ%3D%3D" x="32.512" y="51.308" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="36.322" y="53.848" size="1.27" layer="25" rot="R90" align="center"/>
+<attribute name="VALUE" x="36.322" y="53.848" size="1.27" layer="27" rot="R90" align="center"/>
 </element>
-<element name="LED3" library="SamacSys_Parts" library_urn="urn:adsk.eagle:library:22641528" package="LEDC2012X80N" package3d_urn="urn:adsk.eagle:package:22724977/2" value="150080SS75000" x="41.148" y="54.864" smashed="yes">
-<attribute name="DESCRIPTION" value="Wurth Elektronik 150080SS75000, WL-SMCW Series Red LED, 630 nm, 2012 (0805) Clear, Rectangle Lens SMD Package" x="36.068" y="58.674" size="1.778" layer="27" display="off"/>
-<attribute name="DIGIKEY_PARTNUMBER" value="732-4985-1-ND" x="36.068" y="58.674" size="1.778" layer="27" display="off"/>
-<attribute name="DIGIKEY_PRICE-STOCK" value="https://www.digikey.com/product-detail/en/w%C3%BCrth-elektronik/150080SS75000/732-4985-1-ND/4489919" x="36.068" y="58.674" size="1.778" layer="27" display="off"/>
-<attribute name="HEIGHT" value="0.8mm" x="36.068" y="58.674" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_NAME" value="Wurth Elektronik" x="36.068" y="58.674" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="150080SS75000" x="36.068" y="58.674" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PART_NUMBER" value="710-150080SS75000" x="36.068" y="58.674" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150080SS75000?qs=LlUlMxKIyB2zzpiaOzrUdw%3D%3D" x="36.068" y="58.674" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="41.148" y="54.864" size="1.27" layer="25" align="center"/>
-<attribute name="VALUE" x="41.148" y="54.864" size="1.27" layer="27" align="center"/>
+<element name="LED3" library="SamacSys_Parts" library_urn="urn:adsk.eagle:library:22641528" package="LEDC2012X80N" package3d_urn="urn:adsk.eagle:package:22724977/2" value="150080SS75000" x="41.148" y="60.452" smashed="yes">
+<attribute name="DESCRIPTION" value="Wurth Elektronik 150080SS75000, WL-SMCW Series Red LED, 630 nm, 2012 (0805) Clear, Rectangle Lens SMD Package" x="36.068" y="64.262" size="1.778" layer="27" display="off"/>
+<attribute name="DIGIKEY_PARTNUMBER" value="732-4985-1-ND" x="36.068" y="64.262" size="1.778" layer="27" display="off"/>
+<attribute name="DIGIKEY_PRICE-STOCK" value="https://www.digikey.com/product-detail/en/w%C3%BCrth-elektronik/150080SS75000/732-4985-1-ND/4489919" x="36.068" y="64.262" size="1.778" layer="27" display="off"/>
+<attribute name="HEIGHT" value="0.8mm" x="36.068" y="64.262" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_NAME" value="Wurth Elektronik" x="36.068" y="64.262" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="150080SS75000" x="36.068" y="64.262" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PART_NUMBER" value="710-150080SS75000" x="36.068" y="64.262" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150080SS75000?qs=LlUlMxKIyB2zzpiaOzrUdw%3D%3D" x="36.068" y="64.262" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="41.148" y="60.452" size="1.27" layer="25" align="center"/>
+<attribute name="VALUE" x="41.148" y="60.452" size="1.27" layer="27" align="center"/>
 </element>
-<element name="R7" library="ERA-3AED102V" package="ERA3AEB101V" value="1k" x="44.704" y="54.864" smashed="yes">
-<attribute name="DESCRIPTION" value="Thin Film Resistors - SMD 0603 1000ohms 25ppm 0.5% AEC-Q200" x="42.164" y="58.674" size="1.778" layer="27" display="off"/>
-<attribute name="HEIGHT" value="0.55mm" x="42.164" y="58.674" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_NAME" value="Panasonic" x="42.164" y="58.674" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="ERA-3AED102V" x="42.164" y="58.674" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PART_NUMBER" value="667-ERA-3AED102V" x="42.164" y="58.674" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-3AED102V?qs=yocZuyCaXdNrh6oeFjCchg%3D%3D" x="42.164" y="58.674" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="44.704" y="54.864" size="1.27" layer="25" align="center"/>
-<attribute name="VALUE" x="44.704" y="54.864" size="1.27" layer="27" align="center"/>
+<element name="R7" library="ERA-3AED102V" package="ERA3AEB101V" value="1k" x="44.704" y="60.452" smashed="yes">
+<attribute name="DESCRIPTION" value="Thin Film Resistors - SMD 0603 1000ohms 25ppm 0.5% AEC-Q200" x="42.164" y="64.262" size="1.778" layer="27" display="off"/>
+<attribute name="HEIGHT" value="0.55mm" x="42.164" y="64.262" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_NAME" value="Panasonic" x="42.164" y="64.262" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="ERA-3AED102V" x="42.164" y="64.262" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PART_NUMBER" value="667-ERA-3AED102V" x="42.164" y="64.262" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-3AED102V?qs=yocZuyCaXdNrh6oeFjCchg%3D%3D" x="42.164" y="64.262" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="44.704" y="60.452" size="1.27" layer="25" align="center"/>
+<attribute name="VALUE" x="44.704" y="60.452" size="1.27" layer="27" align="center"/>
 </element>
-<element name="D4" library="FM4004-W" package="DIONM5025X231N" value="FM4004-W" x="33.528" y="48.006" smashed="yes" rot="R270">
-<attribute name="DESCRIPTION" value="Rectifiers 1N4004 1A 400V" x="23.368" y="53.086" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="HEIGHT" value="2.31mm" x="23.368" y="53.086" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MANUFACTURER_NAME" value="Rectron" x="23.368" y="53.086" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="FM4004-W" x="23.368" y="53.086" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MOUSER_PART_NUMBER" value="583-FM4004" x="23.368" y="53.086" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Rectron/FM4004-W?qs=Iw9Ubr57Px3IHNH1bE4l9w%3D%3D" x="23.368" y="53.086" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="33.528" y="48.006" size="1.27" layer="25" rot="R270" align="center"/>
-<attribute name="VALUE" x="33.528" y="48.006" size="1.27" layer="27" rot="R270" align="center"/>
+<element name="D4" library="FM4004-W" package="DIONM5025X231N" value="FM4004-W" x="32.766" y="48.768" smashed="yes" rot="R270">
+<attribute name="DESCRIPTION" value="Rectifiers 1N4004 1A 400V" x="22.606" y="53.848" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="HEIGHT" value="2.31mm" x="22.606" y="53.848" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MANUFACTURER_NAME" value="Rectron" x="22.606" y="53.848" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="FM4004-W" x="22.606" y="53.848" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MOUSER_PART_NUMBER" value="583-FM4004" x="22.606" y="53.848" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Rectron/FM4004-W?qs=Iw9Ubr57Px3IHNH1bE4l9w%3D%3D" x="22.606" y="53.848" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="32.766" y="48.768" size="1.27" layer="25" rot="R270" align="center"/>
+<attribute name="VALUE" x="32.766" y="48.768" size="1.27" layer="27" rot="R270" align="center"/>
 </element>
-<element name="R8" library="ERA-3AED102V" package="ERA3AEB101V" value="1k" x="37.084" y="50.8" smashed="yes">
-<attribute name="DESCRIPTION" value="Thin Film Resistors - SMD 0603 1000ohms 25ppm 0.5% AEC-Q200" x="30.734" y="46.99" size="1.778" layer="27" display="off"/>
-<attribute name="HEIGHT" value="0.55mm" x="30.734" y="46.99" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_NAME" value="Panasonic" x="30.734" y="46.99" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="ERA-3AED102V" x="30.734" y="46.99" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PART_NUMBER" value="667-ERA-3AED102V" x="30.734" y="46.99" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-3AED102V?qs=yocZuyCaXdNrh6oeFjCchg%3D%3D" x="30.734" y="46.99" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="37.084" y="50.8" size="1.27" layer="25" align="center"/>
-<attribute name="VALUE" x="37.084" y="50.8" size="1.27" layer="27" align="center"/>
+<element name="R8" library="ERA-3AED102V" package="ERA3AEB101V" value="1k" x="36.322" y="51.562" smashed="yes">
+<attribute name="DESCRIPTION" value="Thin Film Resistors - SMD 0603 1000ohms 25ppm 0.5% AEC-Q200" x="29.972" y="47.752" size="1.778" layer="27" display="off"/>
+<attribute name="HEIGHT" value="0.55mm" x="29.972" y="47.752" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_NAME" value="Panasonic" x="29.972" y="47.752" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="ERA-3AED102V" x="29.972" y="47.752" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PART_NUMBER" value="667-ERA-3AED102V" x="29.972" y="47.752" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-3AED102V?qs=yocZuyCaXdNrh6oeFjCchg%3D%3D" x="29.972" y="47.752" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="36.322" y="51.562" size="1.27" layer="25" align="center"/>
+<attribute name="VALUE" x="36.322" y="51.562" size="1.27" layer="27" align="center"/>
 </element>
 <element name="K3" library="G3MB-202PL-DC5" package="G3MB202PLDC5" value="G3MB-202PL-DC5" x="13.208" y="28.956" smashed="yes" rot="R180">
 <attribute name="ARROW_PART_NUMBER" value="" x="13.208" y="28.956" size="1.778" layer="27" rot="R180" display="off"/>
@@ -1729,62 +1729,62 @@ design rules under a new name.</description>
 <attribute name="NAME" x="22.493" y="27.556" size="1.27" layer="25" rot="R180" align="center"/>
 <attribute name="VALUE" x="22.493" y="27.556" size="1.27" layer="27" rot="R180" align="center"/>
 </element>
-<element name="Q5" library="MMST2222A-7-F" package="SOT65P210X110-3N" value="MMST2222A-7-F" x="37.084" y="48.514" smashed="yes" rot="R90">
-<attribute name="DESCRIPTION" value="Bipolar (BJT) Transistor NPN 40 V 600 mA 300MHz 200 mW Surface Mount SOT-323" x="32.004" y="45.974" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="HEIGHT" value="1.1mm" x="32.004" y="45.974" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MANUFACTURER_NAME" value="Diodes Incorporated" x="32.004" y="45.974" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="MMST2222A-7-F" x="32.004" y="45.974" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MOUSER_PART_NUMBER" value="621-MMST2222A-F" x="32.004" y="45.974" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/MMST2222A-7-F?qs=B0AElM0L7fPu4CagNNXsRQ%3D%3D" x="32.004" y="45.974" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="37.084" y="48.514" size="1.27" layer="25" rot="R90" align="center"/>
-<attribute name="VALUE" x="37.084" y="48.514" size="1.27" layer="27" rot="R90" align="center"/>
+<element name="Q5" library="MMST2222A-7-F" package="SOT65P210X110-3N" value="MMST2222A-7-F" x="36.322" y="49.276" smashed="yes" rot="R90">
+<attribute name="DESCRIPTION" value="Bipolar (BJT) Transistor NPN 40 V 600 mA 300MHz 200 mW Surface Mount SOT-323" x="31.242" y="46.736" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="HEIGHT" value="1.1mm" x="31.242" y="46.736" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_NAME" value="Diodes Incorporated" x="31.242" y="46.736" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="MMST2222A-7-F" x="31.242" y="46.736" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MOUSER_PART_NUMBER" value="621-MMST2222A-F" x="31.242" y="46.736" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/MMST2222A-7-F?qs=B0AElM0L7fPu4CagNNXsRQ%3D%3D" x="31.242" y="46.736" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="36.322" y="49.276" size="1.27" layer="25" rot="R90" align="center"/>
+<attribute name="VALUE" x="36.322" y="49.276" size="1.27" layer="27" rot="R90" align="center"/>
 </element>
-<element name="LED4" library="SamacSys_Parts" library_urn="urn:adsk.eagle:library:22641528" package="LEDC2012X80N" package3d_urn="urn:adsk.eagle:package:22724977/2" value="150080SS75000" x="41.148" y="52.324" smashed="yes">
-<attribute name="DESCRIPTION" value="Wurth Elektronik 150080SS75000, WL-SMCW Series Red LED, 630 nm, 2012 (0805) Clear, Rectangle Lens SMD Package" x="36.068" y="57.404" size="1.778" layer="27" display="off"/>
-<attribute name="DIGIKEY_PARTNUMBER" value="732-4985-1-ND" x="36.068" y="57.404" size="1.778" layer="27" display="off"/>
-<attribute name="DIGIKEY_PRICE-STOCK" value="https://www.digikey.com/product-detail/en/w%C3%BCrth-elektronik/150080SS75000/732-4985-1-ND/4489919" x="36.068" y="57.404" size="1.778" layer="27" display="off"/>
-<attribute name="HEIGHT" value="0.8mm" x="36.068" y="57.404" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_NAME" value="Wurth Elektronik" x="36.068" y="57.404" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="150080SS75000" x="36.068" y="57.404" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PART_NUMBER" value="710-150080SS75000" x="36.068" y="57.404" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150080SS75000?qs=LlUlMxKIyB2zzpiaOzrUdw%3D%3D" x="36.068" y="57.404" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="41.148" y="52.324" size="1.27" layer="25" align="center"/>
-<attribute name="VALUE" x="41.148" y="52.324" size="1.27" layer="27" align="center"/>
+<element name="LED4" library="SamacSys_Parts" library_urn="urn:adsk.eagle:library:22641528" package="LEDC2012X80N" package3d_urn="urn:adsk.eagle:package:22724977/2" value="150080SS75000" x="41.148" y="57.912" smashed="yes">
+<attribute name="DESCRIPTION" value="Wurth Elektronik 150080SS75000, WL-SMCW Series Red LED, 630 nm, 2012 (0805) Clear, Rectangle Lens SMD Package" x="36.068" y="62.992" size="1.778" layer="27" display="off"/>
+<attribute name="DIGIKEY_PARTNUMBER" value="732-4985-1-ND" x="36.068" y="62.992" size="1.778" layer="27" display="off"/>
+<attribute name="DIGIKEY_PRICE-STOCK" value="https://www.digikey.com/product-detail/en/w%C3%BCrth-elektronik/150080SS75000/732-4985-1-ND/4489919" x="36.068" y="62.992" size="1.778" layer="27" display="off"/>
+<attribute name="HEIGHT" value="0.8mm" x="36.068" y="62.992" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_NAME" value="Wurth Elektronik" x="36.068" y="62.992" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="150080SS75000" x="36.068" y="62.992" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PART_NUMBER" value="710-150080SS75000" x="36.068" y="62.992" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150080SS75000?qs=LlUlMxKIyB2zzpiaOzrUdw%3D%3D" x="36.068" y="62.992" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="41.148" y="57.912" size="1.27" layer="25" align="center"/>
+<attribute name="VALUE" x="41.148" y="57.912" size="1.27" layer="27" align="center"/>
 </element>
-<element name="R9" library="ERA-3AED102V" package="ERA3AEB101V" value="1k" x="44.704" y="52.324" smashed="yes">
-<attribute name="DESCRIPTION" value="Thin Film Resistors - SMD 0603 1000ohms 25ppm 0.5% AEC-Q200" x="42.164" y="57.404" size="1.778" layer="27" display="off"/>
-<attribute name="HEIGHT" value="0.55mm" x="42.164" y="57.404" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_NAME" value="Panasonic" x="42.164" y="57.404" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="ERA-3AED102V" x="42.164" y="57.404" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PART_NUMBER" value="667-ERA-3AED102V" x="42.164" y="57.404" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-3AED102V?qs=yocZuyCaXdNrh6oeFjCchg%3D%3D" x="42.164" y="57.404" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="44.704" y="52.324" size="1.27" layer="25" align="center"/>
-<attribute name="VALUE" x="44.704" y="52.324" size="1.27" layer="27" align="center"/>
+<element name="R9" library="ERA-3AED102V" package="ERA3AEB101V" value="1k" x="44.704" y="57.912" smashed="yes">
+<attribute name="DESCRIPTION" value="Thin Film Resistors - SMD 0603 1000ohms 25ppm 0.5% AEC-Q200" x="42.164" y="62.992" size="1.778" layer="27" display="off"/>
+<attribute name="HEIGHT" value="0.55mm" x="42.164" y="62.992" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_NAME" value="Panasonic" x="42.164" y="62.992" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="ERA-3AED102V" x="42.164" y="62.992" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PART_NUMBER" value="667-ERA-3AED102V" x="42.164" y="62.992" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-3AED102V?qs=yocZuyCaXdNrh6oeFjCchg%3D%3D" x="42.164" y="62.992" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="44.704" y="57.912" size="1.27" layer="25" align="center"/>
+<attribute name="VALUE" x="44.704" y="57.912" size="1.27" layer="27" align="center"/>
 </element>
-<element name="D5" library="FM4004-W" package="DIONM5025X231N" value="FM4004-W" x="33.528" y="40.894" smashed="yes" rot="R90">
-<attribute name="DESCRIPTION" value="Rectifiers 1N4004 1A 400V" x="42.418" y="35.814" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="HEIGHT" value="2.31mm" x="42.418" y="35.814" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MANUFACTURER_NAME" value="Rectron" x="42.418" y="35.814" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="FM4004-W" x="42.418" y="35.814" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MOUSER_PART_NUMBER" value="583-FM4004" x="42.418" y="35.814" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Rectron/FM4004-W?qs=Iw9Ubr57Px3IHNH1bE4l9w%3D%3D" x="42.418" y="35.814" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="33.528" y="40.894" size="1.27" layer="25" rot="R90" align="center"/>
-<attribute name="VALUE" x="33.528" y="40.894" size="1.27" layer="27" rot="R90" align="center"/>
+<element name="D5" library="FM4004-W" package="DIONM5025X231N" value="FM4004-W" x="32.766" y="41.656" smashed="yes" rot="R90">
+<attribute name="DESCRIPTION" value="Rectifiers 1N4004 1A 400V" x="41.656" y="36.576" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="HEIGHT" value="2.31mm" x="41.656" y="36.576" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_NAME" value="Rectron" x="41.656" y="36.576" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="FM4004-W" x="41.656" y="36.576" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MOUSER_PART_NUMBER" value="583-FM4004" x="41.656" y="36.576" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Rectron/FM4004-W?qs=Iw9Ubr57Px3IHNH1bE4l9w%3D%3D" x="41.656" y="36.576" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="32.766" y="41.656" size="1.27" layer="25" rot="R90" align="center"/>
+<attribute name="VALUE" x="32.766" y="41.656" size="1.27" layer="27" rot="R90" align="center"/>
 </element>
-<element name="R10" library="ERA-3AED102V" package="ERA3AEB101V" value="1k" x="37.084" y="46.228" smashed="yes">
-<attribute name="DESCRIPTION" value="Thin Film Resistors - SMD 0603 1000ohms 25ppm 0.5% AEC-Q200" x="19.304" y="41.148" size="1.778" layer="27" display="off"/>
-<attribute name="HEIGHT" value="0.55mm" x="19.304" y="41.148" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_NAME" value="Panasonic" x="19.304" y="41.148" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="ERA-3AED102V" x="19.304" y="41.148" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PART_NUMBER" value="667-ERA-3AED102V" x="19.304" y="41.148" size="1.778" layer="27" display="off"/>
-<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-3AED102V?qs=yocZuyCaXdNrh6oeFjCchg%3D%3D" x="19.304" y="41.148" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="37.084" y="46.228" size="1.27" layer="25" align="center"/>
-<attribute name="VALUE" x="37.084" y="46.228" size="1.27" layer="27" align="center"/>
+<element name="R10" library="ERA-3AED102V" package="ERA3AEB101V" value="1k" x="36.322" y="46.99" smashed="yes">
+<attribute name="DESCRIPTION" value="Thin Film Resistors - SMD 0603 1000ohms 25ppm 0.5% AEC-Q200" x="18.542" y="41.91" size="1.778" layer="27" display="off"/>
+<attribute name="HEIGHT" value="0.55mm" x="18.542" y="41.91" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_NAME" value="Panasonic" x="18.542" y="41.91" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="ERA-3AED102V" x="18.542" y="41.91" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PART_NUMBER" value="667-ERA-3AED102V" x="18.542" y="41.91" size="1.778" layer="27" display="off"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-3AED102V?qs=yocZuyCaXdNrh6oeFjCchg%3D%3D" x="18.542" y="41.91" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="36.322" y="46.99" size="1.27" layer="25" align="center"/>
+<attribute name="VALUE" x="36.322" y="46.99" size="1.27" layer="27" align="center"/>
 </element>
-<element name="RELAY_CONTROL" library="pinhead" library_urn="urn:adsk.eagle:library:325" package="2X05" package3d_urn="urn:adsk.eagle:package:22470/2" value="" x="0" y="-175.26" smashed="yes">
-<attribute name="NAME" x="-6.35" y="-172.085" size="1.27" layer="25" ratio="10"/>
-<attribute name="POPULARITY" value="35" x="0" y="-175.26" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="-6.35" y="-179.705" size="1.27" layer="27"/>
+<element name="RELAY_CONTROL" library="pinhead" library_urn="urn:adsk.eagle:library:325" package="2X05" package3d_urn="urn:adsk.eagle:package:22470/2" value="" x="41.91" y="47.498" smashed="yes" rot="R270">
+<attribute name="NAME" x="45.085" y="53.848" size="1.27" layer="25" ratio="10" rot="R270"/>
+<attribute name="POPULARITY" value="35" x="41.91" y="47.498" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="VALUE" x="37.465" y="53.848" size="1.27" layer="27" rot="R270"/>
 </element>
 <element name="JP1" library="pinhead" library_urn="urn:adsk.eagle:library:325" package="1X15" package3d_urn="urn:adsk.eagle:package:22424/2" value="" x="90.678" y="50.8" smashed="yes" rot="R90">
 <attribute name="NAME" x="88.8492" y="31.6738" size="1.27" layer="25" ratio="10" rot="R90"/>
@@ -1816,15 +1816,15 @@ design rules under a new name.</description>
 <attribute name="POPULARITY" value="4" x="96.266" y="50.8" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="99.441" y="31.75" size="1.27" layer="27" rot="R90"/>
 </element>
-<element name="JP7" library="pinhead" library_urn="urn:adsk.eagle:library:325" package="1X03" package3d_urn="urn:adsk.eagle:package:22458/2" value="" x="-2.54" y="-219.71" smashed="yes">
-<attribute name="NAME" x="-6.4262" y="-217.8812" size="1.27" layer="25" ratio="10"/>
-<attribute name="POPULARITY" value="92" x="-2.54" y="-219.71" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="-6.35" y="-222.885" size="1.27" layer="27"/>
+<element name="JP7" library="pinhead" library_urn="urn:adsk.eagle:library:325" package="1X03" package3d_urn="urn:adsk.eagle:package:22458/2" value="" x="51.308" y="24.13" smashed="yes">
+<attribute name="NAME" x="47.4218" y="25.9588" size="1.27" layer="25" ratio="10"/>
+<attribute name="POPULARITY" value="92" x="51.308" y="24.13" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="47.498" y="20.955" size="1.27" layer="27"/>
 </element>
-<element name="JP8" library="pinhead" library_urn="urn:adsk.eagle:library:325" package="2X04" package3d_urn="urn:adsk.eagle:package:22461/2" value="" x="-1.27" y="-227.33" smashed="yes">
-<attribute name="NAME" x="-6.35" y="-224.155" size="1.27" layer="25" ratio="10"/>
-<attribute name="POPULARITY" value="47" x="-1.27" y="-227.33" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="-6.35" y="-231.775" size="1.27" layer="27"/>
+<element name="JP8" library="pinhead" library_urn="urn:adsk.eagle:library:325" package="2X04" package3d_urn="urn:adsk.eagle:package:22461/2" value="" x="-1.27" y="-225.933" smashed="yes">
+<attribute name="NAME" x="-6.35" y="-222.758" size="1.27" layer="25" ratio="10"/>
+<attribute name="POPULARITY" value="47" x="-1.27" y="-225.933" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-6.35" y="-230.378" size="1.27" layer="27"/>
 </element>
 <element name="JP9" library="pinhead" library_urn="urn:adsk.eagle:library:325" package="2X04" package3d_urn="urn:adsk.eagle:package:22461/2" value="" x="-1.27" y="-234.95" smashed="yes">
 <attribute name="NAME" x="-6.35" y="-231.775" size="1.27" layer="25" ratio="10"/>
@@ -1945,30 +1945,30 @@ design rules under a new name.</description>
 <wire x1="83.82" y1="88.948" x2="75.028" y2="84.059" width="0" layer="19" extent="1-1"/>
 <wire x1="53.538" y1="80.264" x2="83.82" y2="88.948" width="0" layer="19" extent="1-1"/>
 <wire x1="95.79" y1="82.804" x2="53.538" y2="80.264" width="0" layer="19" extent="1-1"/>
-<wire x1="37.084" y1="49.514" x2="95.79" y2="82.804" width="0" layer="19" extent="1-1"/>
-<wire x1="37.084" y1="54.086" x2="37.084" y2="49.514" width="0" layer="19" extent="1-1"/>
-<wire x1="37.084" y1="58.658" x2="37.084" y2="54.086" width="0" layer="19" extent="1-1"/>
-<wire x1="37.084" y1="63.23" x2="37.084" y2="58.658" width="0" layer="19" extent="1-1"/>
-<wire x1="37.084" y1="67.802" x2="37.084" y2="63.23" width="0" layer="19" extent="1-1"/>
+<wire x1="36.322" y1="50.276" x2="95.79" y2="82.804" width="0" layer="19" extent="1-1"/>
+<wire x1="36.322" y1="54.848" x2="36.322" y2="50.276" width="0" layer="19" extent="1-1"/>
+<wire x1="36.322" y1="59.42" x2="36.322" y2="54.848" width="0" layer="19" extent="1-1"/>
+<wire x1="36.322" y1="63.992" x2="36.322" y2="59.42" width="0" layer="19" extent="1-1"/>
+<wire x1="36.322" y1="68.564" x2="36.322" y2="63.992" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$2">
 <contactref element="R1" pad="1"/>
 <contactref element="LED6" pad="2"/>
-<wire x1="42.098" y1="59.944" x2="43.979" y2="59.944" width="0" layer="19" extent="1-1"/>
+<wire x1="42.098" y1="65.532" x2="43.979" y2="65.532" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$3">
 <contactref element="D1" pad="2"/>
 <contactref element="K2" pad="4"/>
 <contactref element="LED6" pad="1"/>
 <contactref element="Q1" pad="2"/>
-<wire x1="37.734" y1="61.23" x2="40.198" y2="59.944" width="0" layer="19" extent="1-1"/>
-<wire x1="26.67" y1="54.294" x2="37.734" y2="61.23" width="0" layer="19" extent="1-1"/>
-<wire x1="33.528" y1="60.076" x2="26.67" y2="54.294" width="0" layer="19" extent="1-1"/>
+<wire x1="36.972" y1="61.992" x2="40.198" y2="65.532" width="0" layer="19" extent="1-1"/>
+<wire x1="26.67" y1="54.294" x2="36.972" y2="61.992" width="0" layer="19" extent="1-1"/>
+<wire x1="32.766" y1="60.838" x2="26.67" y2="54.294" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$4">
 <contactref element="Q1" pad="1"/>
 <contactref element="R2" pad="1"/>
-<wire x1="36.359" y1="59.944" x2="36.434" y2="61.23" width="0" layer="19" extent="1-1"/>
+<wire x1="35.597" y1="60.706" x2="35.672" y2="61.992" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="+5V">
 <contactref element="D1" pad="1"/>
@@ -1990,105 +1990,105 @@ design rules under a new name.</description>
 <contactref element="C3" pad="1"/>
 <contactref element="IC1" pad="4"/>
 <contactref element="JP7" pad="1"/>
-<wire x1="33.528" y1="38.994" x2="-5.08" y2="-219.71" width="0" layer="19" extent="1-1"/>
-<wire x1="33.528" y1="49.906" x2="33.528" y2="38.994" width="0" layer="19" extent="1-1"/>
-<wire x1="33.528" y1="57.018" x2="33.528" y2="49.906" width="0" layer="19" extent="1-1"/>
-<wire x1="33.528" y1="63.876" x2="33.528" y2="57.018" width="0" layer="19" extent="1-1"/>
-<wire x1="73.328" y1="84.059" x2="33.528" y2="63.876" width="0" layer="19" extent="1-1"/>
+<wire x1="32.766" y1="39.756" x2="48.768" y2="24.13" width="0" layer="19" extent="1-1"/>
+<wire x1="32.766" y1="50.668" x2="32.766" y2="39.756" width="0" layer="19" extent="1-1"/>
+<wire x1="32.766" y1="57.78" x2="32.766" y2="50.668" width="0" layer="19" extent="1-1"/>
+<wire x1="32.766" y1="64.638" x2="32.766" y2="57.78" width="0" layer="19" extent="1-1"/>
+<wire x1="73.328" y1="84.059" x2="32.766" y2="64.638" width="0" layer="19" extent="1-1"/>
 <wire x1="50.038" y1="80.264" x2="73.328" y2="84.059" width="0" layer="19" extent="1-1"/>
 <wire x1="63.878" y1="92.202" x2="50.038" y2="80.264" width="0" layer="19" extent="1-1"/>
 <wire x1="30.988" y1="28.956" x2="63.878" y2="92.202" width="0" layer="19" extent="1-1"/>
 <wire x1="30.988" y1="34.798" x2="30.988" y2="28.956" width="0" layer="19" extent="1-1"/>
 <wire x1="26.67" y1="50.292" x2="30.988" y2="34.798" width="0" layer="19" extent="1-1"/>
 <wire x1="26.67" y1="66.294" x2="26.67" y2="50.292" width="0" layer="19" extent="1-1"/>
-<wire x1="33.528" y1="70.734" x2="26.67" y2="66.294" width="0" layer="19" extent="1-1"/>
-<wire x1="45.429" y1="62.484" x2="33.528" y2="70.734" width="0" layer="19" extent="1-1"/>
-<wire x1="45.429" y1="59.944" x2="45.429" y2="62.484" width="0" layer="19" extent="1-1"/>
-<wire x1="45.429" y1="57.404" x2="45.429" y2="59.944" width="0" layer="19" extent="1-1"/>
-<wire x1="45.429" y1="54.864" x2="45.429" y2="57.404" width="0" layer="19" extent="1-1"/>
-<wire x1="45.429" y1="52.324" x2="45.429" y2="54.864" width="0" layer="19" extent="1-1"/>
-<wire x1="36.616" y1="87.904" x2="33.528" y2="70.734" width="0" layer="19" extent="1-1"/>
+<wire x1="32.766" y1="71.496" x2="26.67" y2="66.294" width="0" layer="19" extent="1-1"/>
+<wire x1="45.429" y1="68.072" x2="32.766" y2="71.496" width="0" layer="19" extent="1-1"/>
+<wire x1="45.429" y1="65.532" x2="45.429" y2="68.072" width="0" layer="19" extent="1-1"/>
+<wire x1="45.429" y1="62.992" x2="45.429" y2="65.532" width="0" layer="19" extent="1-1"/>
+<wire x1="45.429" y1="60.452" x2="45.429" y2="62.992" width="0" layer="19" extent="1-1"/>
+<wire x1="45.429" y1="57.912" x2="45.429" y2="60.452" width="0" layer="19" extent="1-1"/>
+<wire x1="36.616" y1="87.904" x2="32.766" y2="71.496" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="IN2">
 <contactref element="R2" pad="2"/>
 <contactref element="RELAY_CONTROL" pad="3"/>
-<wire x1="37.809" y1="59.944" x2="-2.54" y2="-176.53" width="0" layer="19" extent="1-1"/>
+<wire x1="37.047" y1="60.706" x2="40.64" y2="50.038" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$1">
 <contactref element="R3" pad="1"/>
 <contactref element="LED1" pad="2"/>
-<wire x1="42.098" y1="57.404" x2="43.979" y2="57.404" width="0" layer="19" extent="1-1"/>
+<wire x1="42.098" y1="62.992" x2="43.979" y2="62.992" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$5">
 <contactref element="D2" pad="2"/>
 <contactref element="K6" pad="4"/>
 <contactref element="LED1" pad="1"/>
 <contactref element="Q2" pad="2"/>
-<wire x1="33.528" y1="53.218" x2="37.734" y2="56.658" width="0" layer="19" extent="1-1"/>
-<wire x1="26.67" y1="38.292" x2="33.528" y2="53.218" width="0" layer="19" extent="1-1"/>
-<wire x1="40.198" y1="57.404" x2="26.67" y2="38.292" width="0" layer="19" extent="1-1"/>
+<wire x1="32.766" y1="53.98" x2="36.972" y2="57.42" width="0" layer="19" extent="1-1"/>
+<wire x1="26.67" y1="38.292" x2="32.766" y2="53.98" width="0" layer="19" extent="1-1"/>
+<wire x1="40.198" y1="62.992" x2="26.67" y2="38.292" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$6">
 <contactref element="Q2" pad="1"/>
 <contactref element="R4" pad="1"/>
-<wire x1="36.359" y1="55.372" x2="36.434" y2="56.658" width="0" layer="19" extent="1-1"/>
+<wire x1="35.597" y1="56.134" x2="35.672" y2="57.42" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$7">
 <contactref element="R5" pad="1"/>
 <contactref element="LED2" pad="2"/>
-<wire x1="42.098" y1="62.484" x2="43.979" y2="62.484" width="0" layer="19" extent="1-1"/>
+<wire x1="42.098" y1="68.072" x2="43.979" y2="68.072" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$8">
 <contactref element="D3" pad="2"/>
 <contactref element="LED2" pad="1"/>
 <contactref element="Q3" pad="2"/>
 <contactref element="K1" pad="6"/>
-<wire x1="36.616" y1="77.704" x2="33.528" y2="66.934" width="0" layer="19" extent="1-1"/>
-<wire x1="40.198" y1="62.484" x2="33.528" y2="66.934" width="0" layer="19" extent="1-1"/>
-<wire x1="37.734" y1="65.802" x2="40.198" y2="62.484" width="0" layer="19" extent="1-1"/>
+<wire x1="36.616" y1="77.704" x2="32.766" y2="67.696" width="0" layer="19" extent="1-1"/>
+<wire x1="40.198" y1="68.072" x2="32.766" y2="67.696" width="0" layer="19" extent="1-1"/>
+<wire x1="36.972" y1="66.564" x2="40.198" y2="68.072" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$9">
 <contactref element="Q3" pad="1"/>
 <contactref element="R6" pad="1"/>
-<wire x1="36.434" y1="65.802" x2="36.359" y2="64.516" width="0" layer="19" extent="1-1"/>
+<wire x1="35.672" y1="66.564" x2="35.597" y2="65.278" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$10">
 <contactref element="R7" pad="1"/>
 <contactref element="LED3" pad="2"/>
-<wire x1="42.098" y1="54.864" x2="43.979" y2="54.864" width="0" layer="19" extent="1-1"/>
+<wire x1="42.098" y1="60.452" x2="43.979" y2="60.452" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$11">
 <contactref element="D4" pad="2"/>
 <contactref element="LED3" pad="1"/>
 <contactref element="Q4" pad="2"/>
 <contactref element="K5" pad="4"/>
-<wire x1="33.528" y1="46.106" x2="37.734" y2="52.086" width="0" layer="19" extent="1-1"/>
-<wire x1="33.528" y1="34.798" x2="33.528" y2="46.106" width="0" layer="19" extent="1-1"/>
-<wire x1="40.198" y1="54.864" x2="33.528" y2="34.798" width="0" layer="19" extent="1-1"/>
+<wire x1="32.766" y1="46.868" x2="36.972" y2="52.848" width="0" layer="19" extent="1-1"/>
+<wire x1="33.528" y1="34.798" x2="32.766" y2="46.868" width="0" layer="19" extent="1-1"/>
+<wire x1="40.198" y1="60.452" x2="33.528" y2="34.798" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$12">
 <contactref element="Q4" pad="1"/>
 <contactref element="R8" pad="1"/>
-<wire x1="36.434" y1="52.086" x2="36.359" y2="50.8" width="0" layer="19" extent="1-1"/>
+<wire x1="35.672" y1="52.848" x2="35.597" y2="51.562" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$13">
 <contactref element="R9" pad="1"/>
 <contactref element="LED4" pad="2"/>
-<wire x1="42.098" y1="52.324" x2="43.979" y2="52.324" width="0" layer="19" extent="1-1"/>
+<wire x1="42.098" y1="57.912" x2="43.979" y2="57.912" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$14">
 <contactref element="D5" pad="2"/>
 <contactref element="LED4" pad="1"/>
 <contactref element="Q5" pad="2"/>
 <contactref element="K3" pad="4"/>
-<wire x1="33.528" y1="42.794" x2="37.734" y2="47.514" width="0" layer="19" extent="1-1"/>
-<wire x1="33.528" y1="28.956" x2="33.528" y2="42.794" width="0" layer="19" extent="1-1"/>
-<wire x1="40.198" y1="52.324" x2="33.528" y2="28.956" width="0" layer="19" extent="1-1"/>
+<wire x1="32.766" y1="43.556" x2="36.972" y2="48.276" width="0" layer="19" extent="1-1"/>
+<wire x1="33.528" y1="28.956" x2="32.766" y2="43.556" width="0" layer="19" extent="1-1"/>
+<wire x1="40.198" y1="57.912" x2="33.528" y2="28.956" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$15">
 <contactref element="Q5" pad="1"/>
 <contactref element="R10" pad="1"/>
-<wire x1="36.359" y1="46.228" x2="36.434" y2="47.514" width="0" layer="19" extent="1-1"/>
+<wire x1="35.597" y1="46.99" x2="35.672" y2="48.276" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="VCC">
 <contactref element="FB1" pad="2"/>
@@ -2105,22 +2105,22 @@ design rules under a new name.</description>
 <signal name="IN1">
 <contactref element="RELAY_CONTROL" pad="1"/>
 <contactref element="R6" pad="2"/>
-<wire x1="37.809" y1="64.516" x2="-5.08" y2="-176.53" width="0" layer="19" extent="1-1"/>
+<wire x1="37.047" y1="65.278" x2="40.64" y2="52.578" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="IN3">
 <contactref element="RELAY_CONTROL" pad="5"/>
 <contactref element="R4" pad="2"/>
-<wire x1="37.809" y1="55.372" x2="0" y2="-176.53" width="0" layer="19" extent="1-1"/>
+<wire x1="37.047" y1="56.134" x2="40.64" y2="47.498" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="IN4">
 <contactref element="RELAY_CONTROL" pad="7"/>
 <contactref element="R8" pad="2"/>
-<wire x1="37.809" y1="50.8" x2="2.54" y2="-176.53" width="0" layer="19" extent="1-1"/>
+<wire x1="37.047" y1="51.562" x2="40.64" y2="44.958" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="IN5">
 <contactref element="RELAY_CONTROL" pad="9"/>
 <contactref element="R10" pad="2"/>
-<wire x1="37.809" y1="46.228" x2="5.08" y2="-176.53" width="0" layer="19" extent="1-1"/>
+<wire x1="37.047" y1="46.99" x2="40.64" y2="42.418" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$23">
 <contactref element="RELAY_CONTROL" pad="10"/>
@@ -2255,15 +2255,15 @@ design rules under a new name.</description>
 <contactref element="JP8" pad="5"/>
 <contactref element="JP8" pad="3"/>
 <contactref element="JP8" pad="1"/>
-<wire x1="-5.08" y1="-226.06" x2="-5.08" y2="-228.6" width="0" layer="19" extent="1-1"/>
-<wire x1="-2.54" y1="-228.6" x2="-5.08" y2="-228.6" width="0" layer="19" extent="1-1"/>
-<wire x1="-2.54" y1="-226.06" x2="-5.08" y2="-226.06" width="0" layer="19" extent="1-1"/>
-<wire x1="0" y1="-228.6" x2="-2.54" y2="-228.6" width="0" layer="19" extent="1-1"/>
-<wire x1="0" y1="-226.06" x2="-2.54" y2="-226.06" width="0" layer="19" extent="1-1"/>
-<wire x1="2.54" y1="-228.6" x2="0" y2="-228.6" width="0" layer="19" extent="1-1"/>
-<wire x1="2.54" y1="-226.06" x2="0" y2="-226.06" width="0" layer="19" extent="1-1"/>
-<wire x1="-2.54" y1="-219.71" x2="-2.54" y2="-226.06" width="0" layer="19" extent="1-1"/>
-<wire x1="93.472" y1="35.56" x2="-2.54" y2="-219.71" width="0" layer="19" extent="1-1"/>
+<wire x1="-5.08" y1="-224.663" x2="-5.08" y2="-227.203" width="0" layer="19" extent="1-1"/>
+<wire x1="-2.54" y1="-227.203" x2="-5.08" y2="-227.203" width="0" layer="19" extent="1-1"/>
+<wire x1="-2.54" y1="-224.663" x2="-5.08" y2="-224.663" width="0" layer="19" extent="1-1"/>
+<wire x1="0" y1="-227.203" x2="-2.54" y2="-227.203" width="0" layer="19" extent="1-1"/>
+<wire x1="0" y1="-224.663" x2="-2.54" y2="-224.663" width="0" layer="19" extent="1-1"/>
+<wire x1="2.54" y1="-227.203" x2="0" y2="-227.203" width="0" layer="19" extent="1-1"/>
+<wire x1="2.54" y1="-224.663" x2="0" y2="-224.663" width="0" layer="19" extent="1-1"/>
+<wire x1="51.308" y1="24.13" x2="-2.54" y2="-224.663" width="0" layer="19" extent="1-1"/>
+<wire x1="93.472" y1="35.56" x2="51.308" y2="24.13" width="0" layer="19" extent="1-1"/>
 <wire x1="93.472" y1="33.02" x2="93.472" y2="35.56" width="0" layer="19" extent="1-1"/>
 <wire x1="93.472" y1="38.1" x2="93.472" y2="35.56" width="0" layer="19" extent="1-1"/>
 <wire x1="93.472" y1="40.64" x2="93.472" y2="38.1" width="0" layer="19" extent="1-1"/>

@@ -192,7 +192,6 @@
 <wire x1="99.04" y1="21.082" x2="99.04" y2="100" width="0" layer="20"/>
 <wire x1="99.04" y1="100" x2="0" y2="100" width="0" layer="20"/>
 <wire x1="0" y1="100" x2="0" y2="21.082" width="0" layer="20"/>
-<dimension x1="0" y1="100" x2="0" y2="0" x3="-11.43" y3="50" textsize="1.778" layer="1"/>
 </plain>
 <libraries>
 <library name="ESP32-DEVKITV1">
