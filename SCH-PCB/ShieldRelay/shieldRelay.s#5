@@ -2721,6 +2721,79 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 </deviceset>
 </devicesets>
 </library>
+<library name="LM1117MPX-33NOPB">
+<description>&lt;LDO Voltage Regulators 800-mA 15-V linear voltage regulator 800-mA 15-V linear voltage regulator&lt;/b&gt;&lt;p&gt;
+&lt;author&gt;Created by SamacSys&lt;/author&gt;</description>
+<packages>
+<package name="SOT230P700X180-4N">
+<description>&lt;b&gt;SOT223 CASE 318H&lt;/b&gt;&lt;br&gt;
+</description>
+<smd name="1" x="-3.4" y="2.3" dx="1.25" dy="0.95" layer="1"/>
+<smd name="2" x="-3.4" y="0" dx="1.25" dy="0.95" layer="1"/>
+<smd name="3" x="-3.4" y="-2.3" dx="1.25" dy="0.95" layer="1"/>
+<smd name="4" x="3.4" y="0" dx="3.2" dy="1.25" layer="1" rot="R90"/>
+<text x="0" y="0" size="1.27" layer="25" align="center">&gt;NAME</text>
+<text x="0" y="0" size="1.27" layer="27" align="center">&gt;VALUE</text>
+<wire x1="-4.275" y1="3.6" x2="4.275" y2="3.6" width="0.05" layer="51"/>
+<wire x1="4.275" y1="3.6" x2="4.275" y2="-3.6" width="0.05" layer="51"/>
+<wire x1="4.275" y1="-3.6" x2="-4.275" y2="-3.6" width="0.05" layer="51"/>
+<wire x1="-4.275" y1="-3.6" x2="-4.275" y2="3.6" width="0.05" layer="51"/>
+<wire x1="-1.75" y1="3.25" x2="1.75" y2="3.25" width="0.1" layer="51"/>
+<wire x1="1.75" y1="3.25" x2="1.75" y2="-3.25" width="0.1" layer="51"/>
+<wire x1="1.75" y1="-3.25" x2="-1.75" y2="-3.25" width="0.1" layer="51"/>
+<wire x1="-1.75" y1="-3.25" x2="-1.75" y2="3.25" width="0.1" layer="51"/>
+<wire x1="-1.75" y1="0.95" x2="0.55" y2="3.25" width="0.1" layer="51"/>
+<wire x1="-1.75" y1="3.25" x2="1.75" y2="3.25" width="0.2" layer="21"/>
+<wire x1="1.75" y1="3.25" x2="1.75" y2="-3.25" width="0.2" layer="21"/>
+<wire x1="1.75" y1="-3.25" x2="-1.75" y2="-3.25" width="0.2" layer="21"/>
+<wire x1="-1.75" y1="-3.25" x2="-1.75" y2="3.25" width="0.2" layer="21"/>
+<wire x1="-4.025" y1="3.125" x2="-2.775" y2="3.125" width="0.2" layer="21"/>
+</package>
+</packages>
+<symbols>
+<symbol name="LM1117MPX-33NOPB">
+<wire x1="5.08" y1="2.54" x2="33.02" y2="2.54" width="0.254" layer="94"/>
+<wire x1="33.02" y1="-5.08" x2="33.02" y2="2.54" width="0.254" layer="94"/>
+<wire x1="33.02" y1="-5.08" x2="5.08" y2="-5.08" width="0.254" layer="94"/>
+<wire x1="5.08" y1="2.54" x2="5.08" y2="-5.08" width="0.254" layer="94"/>
+<text x="34.29" y="7.62" size="1.778" layer="95" align="center-left">&gt;NAME</text>
+<text x="34.29" y="5.08" size="1.778" layer="96" align="center-left">&gt;VALUE</text>
+<pin name="GROUND" x="0" y="-2.54" length="middle"/>
+<pin name="OUTPUT_1" x="38.1" y="-2.54" length="middle" rot="R180"/>
+<pin name="INPUT" x="0" y="0" length="middle"/>
+<pin name="OUTPUT_2" x="38.1" y="0" length="middle" rot="R180"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="LM1117MPX-33NOPB" prefix="IC">
+<description>&lt;b&gt;LDO Voltage Regulators 800-mA 15-V linear voltage regulator 800-mA 15-V linear voltage regulator&lt;/b&gt;&lt;p&gt;
+Source: &lt;a href="https://www.arrow.com/en/products/lm1117mpx-33nopb/on-semiconductor"&gt; Datasheet &lt;/a&gt;</description>
+<gates>
+<gate name="G$1" symbol="LM1117MPX-33NOPB" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="SOT230P700X180-4N">
+<connects>
+<connect gate="G$1" pin="GROUND" pad="1"/>
+<connect gate="G$1" pin="INPUT" pad="3"/>
+<connect gate="G$1" pin="OUTPUT_1" pad="2"/>
+<connect gate="G$1" pin="OUTPUT_2" pad="4"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="DESCRIPTION" value="LDO Voltage Regulators 800-mA 15-V linear voltage regulator 800-mA 15-V linear voltage regulator" constant="no"/>
+<attribute name="HEIGHT" value="1.8mm" constant="no"/>
+<attribute name="MANUFACTURER_NAME" value="onsemi" constant="no"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="LM1117MPX-33NOPB" constant="no"/>
+<attribute name="MOUSER_PART_NUMBER" value="863-LM1117MPX-33NOPB" constant="no"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/onsemi/LM1117MPX-33NOPB?qs=DPoM0jnrROUIbzbQHFmeig%3D%3D" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -2811,6 +2884,7 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 <part name="JP12" library="pinhead_mod" deviceset="PINHD-1X15" device="" package3d_urn="urn:adsk.eagle:package:22424/2"/>
 <part name="JP13" library="pinhead_mod" deviceset="PINHD-1X15" device="" package3d_urn="urn:adsk.eagle:package:22424/2"/>
 <part name="GND" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-2X4" device="" package3d_urn="urn:adsk.eagle:package:22461/2"/>
+<part name="IC2" library="LM1117MPX-33NOPB" deviceset="LM1117MPX-33NOPB" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -3102,6 +3176,10 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 <instance part="GND" gate="A" x="456.184" y="79.756" smashed="yes">
 <attribute name="NAME" x="449.834" y="88.011" size="1.778" layer="95"/>
 <attribute name="VALUE" x="449.834" y="72.136" size="1.778" layer="96"/>
+</instance>
+<instance part="IC2" gate="G$1" x="305.054" y="100.076" smashed="yes">
+<attribute name="NAME" x="310.388" y="105.156" size="1.016" layer="95" align="center-left"/>
+<attribute name="VALUE" x="310.388" y="103.886" size="1.016" layer="96" align="center-left"/>
 </instance>
 </instances>
 <busses>
@@ -3661,42 +3739,12 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 </net>
 <net name="N$17" class="0">
 <segment>
-<pinref part="JP2" gate="A" pin="1"/>
-<wire x1="369.062" y1="29.972" x2="373.888" y2="29.972" width="0.1524" layer="91"/>
-<label x="373.888" y="29.972" size="1.016" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP11" gate="A" pin="1"/>
-<wire x1="494.538" y1="67.818" x2="489.712" y2="67.818" width="0.1524" layer="91"/>
-<label x="489.712" y="67.818" size="1.016" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP12" gate="A" pin="1"/>
-<wire x1="502.92" y1="32.258" x2="507.746" y2="32.258" width="0.1524" layer="91"/>
-<label x="507.746" y="32.258" size="1.016" layer="95" xref="yes"/>
-</segment>
-<segment>
 <pinref part="JP13" gate="A" pin="1"/>
 <wire x1="536.702" y1="32.258" x2="541.528" y2="32.258" width="0.1524" layer="91"/>
 <label x="541.528" y="32.258" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="N$19" class="0">
-<segment>
-<pinref part="JP2" gate="A" pin="2"/>
-<wire x1="369.062" y1="32.512" x2="373.888" y2="32.512" width="0.1524" layer="91"/>
-<label x="373.888" y="32.512" size="1.016" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP11" gate="A" pin="2"/>
-<wire x1="494.538" y1="65.278" x2="489.712" y2="65.278" width="0.1524" layer="91"/>
-<label x="489.712" y="65.278" size="1.016" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP12" gate="A" pin="2"/>
-<wire x1="502.92" y1="34.798" x2="507.746" y2="34.798" width="0.1524" layer="91"/>
-<label x="507.746" y="34.798" size="1.016" layer="95" xref="yes"/>
-</segment>
 <segment>
 <pinref part="JP13" gate="A" pin="2"/>
 <wire x1="536.702" y1="34.798" x2="541.528" y2="34.798" width="0.1524" layer="91"/>
@@ -3705,42 +3753,12 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 </net>
 <net name="N$20" class="0">
 <segment>
-<pinref part="JP2" gate="A" pin="3"/>
-<wire x1="369.062" y1="35.052" x2="373.888" y2="35.052" width="0.1524" layer="91"/>
-<label x="373.888" y="35.052" size="1.016" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP11" gate="A" pin="3"/>
-<wire x1="494.538" y1="62.738" x2="489.712" y2="62.738" width="0.1524" layer="91"/>
-<label x="489.712" y="62.738" size="1.016" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP12" gate="A" pin="3"/>
-<wire x1="502.92" y1="37.338" x2="507.746" y2="37.338" width="0.1524" layer="91"/>
-<label x="507.746" y="37.338" size="1.016" layer="95" xref="yes"/>
-</segment>
-<segment>
 <pinref part="JP13" gate="A" pin="3"/>
 <wire x1="536.702" y1="37.338" x2="541.528" y2="37.338" width="0.1524" layer="91"/>
 <label x="541.528" y="37.338" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="N$21" class="0">
-<segment>
-<pinref part="JP2" gate="A" pin="4"/>
-<wire x1="369.062" y1="37.592" x2="373.888" y2="37.592" width="0.1524" layer="91"/>
-<label x="373.888" y="37.592" size="1.016" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP11" gate="A" pin="4"/>
-<wire x1="494.538" y1="60.198" x2="489.712" y2="60.198" width="0.1524" layer="91"/>
-<label x="489.712" y="60.198" size="1.016" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP12" gate="A" pin="4"/>
-<wire x1="502.92" y1="39.878" x2="507.746" y2="39.878" width="0.1524" layer="91"/>
-<label x="507.746" y="39.878" size="1.016" layer="95" xref="yes"/>
-</segment>
 <segment>
 <pinref part="JP13" gate="A" pin="4"/>
 <wire x1="536.702" y1="39.878" x2="541.528" y2="39.878" width="0.1524" layer="91"/>
@@ -3749,42 +3767,12 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 </net>
 <net name="N$22" class="0">
 <segment>
-<pinref part="JP2" gate="A" pin="5"/>
-<wire x1="369.062" y1="40.132" x2="373.888" y2="40.132" width="0.1524" layer="91"/>
-<label x="373.888" y="40.132" size="1.016" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP11" gate="A" pin="5"/>
-<wire x1="494.538" y1="57.658" x2="489.712" y2="57.658" width="0.1524" layer="91"/>
-<label x="489.712" y="57.658" size="1.016" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP12" gate="A" pin="5"/>
-<wire x1="502.92" y1="42.418" x2="507.746" y2="42.418" width="0.1524" layer="91"/>
-<label x="507.746" y="42.418" size="1.016" layer="95" xref="yes"/>
-</segment>
-<segment>
 <pinref part="JP13" gate="A" pin="5"/>
 <wire x1="536.702" y1="42.418" x2="541.528" y2="42.418" width="0.1524" layer="91"/>
 <label x="541.528" y="42.418" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="N$28" class="0">
-<segment>
-<pinref part="JP2" gate="A" pin="6"/>
-<wire x1="369.062" y1="42.672" x2="373.888" y2="42.672" width="0.1524" layer="91"/>
-<label x="373.888" y="42.672" size="1.016" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP11" gate="A" pin="6"/>
-<wire x1="494.538" y1="55.118" x2="489.712" y2="55.118" width="0.1524" layer="91"/>
-<label x="489.712" y="55.118" size="1.016" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP12" gate="A" pin="6"/>
-<wire x1="502.92" y1="44.958" x2="507.746" y2="44.958" width="0.1524" layer="91"/>
-<label x="507.746" y="44.958" size="1.016" layer="95" xref="yes"/>
-</segment>
 <segment>
 <pinref part="JP13" gate="A" pin="6"/>
 <wire x1="536.702" y1="44.958" x2="541.528" y2="44.958" width="0.1524" layer="91"/>
@@ -3793,42 +3781,12 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 </net>
 <net name="N$29" class="0">
 <segment>
-<pinref part="JP2" gate="A" pin="7"/>
-<wire x1="369.062" y1="45.212" x2="373.888" y2="45.212" width="0.1524" layer="91"/>
-<label x="373.888" y="45.212" size="1.016" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP11" gate="A" pin="7"/>
-<wire x1="494.538" y1="52.578" x2="489.712" y2="52.578" width="0.1524" layer="91"/>
-<label x="489.712" y="52.578" size="1.016" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP12" gate="A" pin="7"/>
-<wire x1="502.92" y1="47.498" x2="507.746" y2="47.498" width="0.1524" layer="91"/>
-<label x="507.746" y="47.498" size="1.016" layer="95" xref="yes"/>
-</segment>
-<segment>
 <pinref part="JP13" gate="A" pin="7"/>
 <wire x1="536.702" y1="47.498" x2="541.528" y2="47.498" width="0.1524" layer="91"/>
 <label x="541.528" y="47.498" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="N$30" class="0">
-<segment>
-<pinref part="JP2" gate="A" pin="8"/>
-<wire x1="369.062" y1="47.752" x2="373.888" y2="47.752" width="0.1524" layer="91"/>
-<label x="373.888" y="47.752" size="1.016" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP11" gate="A" pin="8"/>
-<wire x1="494.538" y1="50.038" x2="489.712" y2="50.038" width="0.1524" layer="91"/>
-<label x="489.712" y="50.038" size="1.016" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP12" gate="A" pin="8"/>
-<wire x1="502.92" y1="50.038" x2="507.746" y2="50.038" width="0.1524" layer="91"/>
-<label x="507.746" y="50.038" size="1.016" layer="95" xref="yes"/>
-</segment>
 <segment>
 <pinref part="JP13" gate="A" pin="8"/>
 <wire x1="536.702" y1="50.038" x2="541.528" y2="50.038" width="0.1524" layer="91"/>
@@ -3837,42 +3795,12 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 </net>
 <net name="N$31" class="0">
 <segment>
-<pinref part="JP2" gate="A" pin="9"/>
-<wire x1="369.062" y1="50.292" x2="373.888" y2="50.292" width="0.1524" layer="91"/>
-<label x="373.888" y="50.292" size="1.016" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP11" gate="A" pin="9"/>
-<wire x1="494.538" y1="47.498" x2="489.712" y2="47.498" width="0.1524" layer="91"/>
-<label x="489.712" y="47.498" size="1.016" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP12" gate="A" pin="9"/>
-<wire x1="502.92" y1="52.578" x2="507.746" y2="52.578" width="0.1524" layer="91"/>
-<label x="507.746" y="52.578" size="1.016" layer="95" xref="yes"/>
-</segment>
-<segment>
 <pinref part="JP13" gate="A" pin="9"/>
 <wire x1="536.702" y1="52.578" x2="541.528" y2="52.578" width="0.1524" layer="91"/>
 <label x="541.528" y="52.578" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="N$32" class="0">
-<segment>
-<pinref part="JP2" gate="A" pin="10"/>
-<wire x1="369.062" y1="52.832" x2="373.888" y2="52.832" width="0.1524" layer="91"/>
-<label x="373.888" y="52.832" size="1.016" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP11" gate="A" pin="10"/>
-<wire x1="494.538" y1="44.958" x2="489.712" y2="44.958" width="0.1524" layer="91"/>
-<label x="489.712" y="44.958" size="1.016" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP12" gate="A" pin="10"/>
-<wire x1="502.92" y1="55.118" x2="507.746" y2="55.118" width="0.1524" layer="91"/>
-<label x="507.746" y="55.118" size="1.016" layer="95" xref="yes"/>
-</segment>
 <segment>
 <pinref part="JP13" gate="A" pin="10"/>
 <wire x1="536.702" y1="55.118" x2="541.528" y2="55.118" width="0.1524" layer="91"/>
@@ -3881,42 +3809,12 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 </net>
 <net name="N$33" class="0">
 <segment>
-<pinref part="JP2" gate="A" pin="11"/>
-<wire x1="369.062" y1="55.372" x2="373.888" y2="55.372" width="0.1524" layer="91"/>
-<label x="373.888" y="55.372" size="1.016" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP11" gate="A" pin="11"/>
-<wire x1="494.538" y1="42.418" x2="489.712" y2="42.418" width="0.1524" layer="91"/>
-<label x="489.712" y="42.418" size="1.016" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP12" gate="A" pin="11"/>
-<wire x1="502.92" y1="57.658" x2="507.746" y2="57.658" width="0.1524" layer="91"/>
-<label x="507.746" y="57.658" size="1.016" layer="95" xref="yes"/>
-</segment>
-<segment>
 <pinref part="JP13" gate="A" pin="11"/>
 <wire x1="536.702" y1="57.658" x2="541.528" y2="57.658" width="0.1524" layer="91"/>
 <label x="541.528" y="57.658" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="N$34" class="0">
-<segment>
-<pinref part="JP2" gate="A" pin="12"/>
-<wire x1="369.062" y1="57.912" x2="373.888" y2="57.912" width="0.1524" layer="91"/>
-<label x="373.888" y="57.912" size="1.016" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP11" gate="A" pin="12"/>
-<wire x1="494.538" y1="39.878" x2="489.712" y2="39.878" width="0.1524" layer="91"/>
-<label x="489.712" y="39.878" size="1.016" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP12" gate="A" pin="12"/>
-<wire x1="502.92" y1="60.198" x2="507.746" y2="60.198" width="0.1524" layer="91"/>
-<label x="507.746" y="60.198" size="1.016" layer="95" xref="yes"/>
-</segment>
 <segment>
 <pinref part="JP13" gate="A" pin="12"/>
 <wire x1="536.702" y1="60.198" x2="541.528" y2="60.198" width="0.1524" layer="91"/>
@@ -3925,21 +3823,6 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 </net>
 <net name="N$35" class="0">
 <segment>
-<pinref part="JP2" gate="A" pin="13"/>
-<wire x1="369.062" y1="60.452" x2="373.888" y2="60.452" width="0.1524" layer="91"/>
-<label x="373.888" y="60.452" size="1.016" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP11" gate="A" pin="13"/>
-<wire x1="494.538" y1="37.338" x2="489.712" y2="37.338" width="0.1524" layer="91"/>
-<label x="489.712" y="37.338" size="1.016" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP12" gate="A" pin="13"/>
-<wire x1="502.92" y1="62.738" x2="507.746" y2="62.738" width="0.1524" layer="91"/>
-<label x="507.746" y="62.738" size="1.016" layer="95" xref="yes"/>
-</segment>
-<segment>
 <pinref part="JP13" gate="A" pin="13"/>
 <wire x1="536.702" y1="62.738" x2="541.528" y2="62.738" width="0.1524" layer="91"/>
 <label x="541.528" y="62.738" size="1.016" layer="95" xref="yes"/>
@@ -3947,37 +3830,12 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 </net>
 <net name="N$36" class="0">
 <segment>
-<pinref part="JP2" gate="A" pin="14"/>
-<wire x1="369.062" y1="62.992" x2="373.888" y2="62.992" width="0.1524" layer="91"/>
-<label x="373.888" y="62.992" size="1.016" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP11" gate="A" pin="14"/>
-<wire x1="494.538" y1="34.798" x2="489.712" y2="34.798" width="0.1524" layer="91"/>
-<label x="489.712" y="34.798" size="1.016" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP12" gate="A" pin="14"/>
-<wire x1="502.92" y1="65.278" x2="507.746" y2="65.278" width="0.1524" layer="91"/>
-<label x="507.746" y="65.278" size="1.016" layer="95" xref="yes"/>
-</segment>
-<segment>
 <pinref part="JP13" gate="A" pin="14"/>
 <wire x1="536.702" y1="65.278" x2="541.528" y2="65.278" width="0.1524" layer="91"/>
 <label x="541.528" y="65.278" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="N$37" class="0">
-<segment>
-<pinref part="JP11" gate="A" pin="15"/>
-<wire x1="494.538" y1="32.258" x2="489.712" y2="32.258" width="0.1524" layer="91"/>
-<label x="489.712" y="32.258" size="1.016" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP12" gate="A" pin="15"/>
-<wire x1="502.92" y1="67.818" x2="507.746" y2="67.818" width="0.1524" layer="91"/>
-<label x="507.746" y="67.818" size="1.016" layer="95" xref="yes"/>
-</segment>
 <segment>
 <pinref part="JP13" gate="A" pin="15"/>
 <wire x1="536.702" y1="67.818" x2="541.528" y2="67.818" width="0.1524" layer="91"/>
@@ -4170,6 +4028,11 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 <wire x1="360.68" y1="65.532" x2="355.854" y2="65.532" width="0.1524" layer="91"/>
 <label x="355.854" y="65.532" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
+<segment>
+<pinref part="JP11" gate="A" pin="1"/>
+<wire x1="494.538" y1="67.818" x2="489.712" y2="67.818" width="0.1524" layer="91"/>
+<label x="489.712" y="67.818" size="1.016" layer="95" rot="R180" xref="yes"/>
+</segment>
 </net>
 <net name="2" class="0">
 <segment>
@@ -4181,6 +4044,11 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 <pinref part="JP1" gate="A" pin="2"/>
 <wire x1="360.68" y1="62.992" x2="355.854" y2="62.992" width="0.1524" layer="91"/>
 <label x="355.854" y="62.992" size="1.016" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP11" gate="A" pin="2"/>
+<wire x1="494.538" y1="65.278" x2="489.712" y2="65.278" width="0.1524" layer="91"/>
+<label x="489.712" y="65.278" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="3" class="0">
@@ -4194,6 +4062,11 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 <wire x1="360.68" y1="60.452" x2="355.854" y2="60.452" width="0.1524" layer="91"/>
 <label x="355.854" y="60.452" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
+<segment>
+<pinref part="JP11" gate="A" pin="3"/>
+<wire x1="494.538" y1="62.738" x2="489.712" y2="62.738" width="0.1524" layer="91"/>
+<label x="489.712" y="62.738" size="1.016" layer="95" rot="R180" xref="yes"/>
+</segment>
 </net>
 <net name="4" class="0">
 <segment>
@@ -4205,6 +4078,11 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 <pinref part="JP1" gate="A" pin="4"/>
 <wire x1="360.68" y1="57.912" x2="355.854" y2="57.912" width="0.1524" layer="91"/>
 <label x="355.854" y="57.912" size="1.016" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP11" gate="A" pin="4"/>
+<wire x1="494.538" y1="60.198" x2="489.712" y2="60.198" width="0.1524" layer="91"/>
+<label x="489.712" y="60.198" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="5" class="0">
@@ -4218,6 +4096,11 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 <wire x1="360.68" y1="55.372" x2="355.854" y2="55.372" width="0.1524" layer="91"/>
 <label x="355.854" y="55.372" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
+<segment>
+<pinref part="JP11" gate="A" pin="5"/>
+<wire x1="494.538" y1="57.658" x2="489.712" y2="57.658" width="0.1524" layer="91"/>
+<label x="489.712" y="57.658" size="1.016" layer="95" rot="R180" xref="yes"/>
+</segment>
 </net>
 <net name="6" class="0">
 <segment>
@@ -4229,6 +4112,11 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 <pinref part="JP1" gate="A" pin="6"/>
 <wire x1="360.68" y1="52.832" x2="355.854" y2="52.832" width="0.1524" layer="91"/>
 <label x="355.854" y="52.832" size="1.016" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP11" gate="A" pin="6"/>
+<wire x1="494.538" y1="55.118" x2="489.712" y2="55.118" width="0.1524" layer="91"/>
+<label x="489.712" y="55.118" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="7" class="0">
@@ -4242,6 +4130,11 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 <wire x1="360.68" y1="50.292" x2="355.854" y2="50.292" width="0.1524" layer="91"/>
 <label x="355.854" y="50.292" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
+<segment>
+<pinref part="JP11" gate="A" pin="7"/>
+<wire x1="494.538" y1="52.578" x2="489.712" y2="52.578" width="0.1524" layer="91"/>
+<label x="489.712" y="52.578" size="1.016" layer="95" rot="R180" xref="yes"/>
+</segment>
 </net>
 <net name="8" class="0">
 <segment>
@@ -4253,6 +4146,11 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 <pinref part="JP1" gate="A" pin="8"/>
 <wire x1="360.68" y1="47.752" x2="355.854" y2="47.752" width="0.1524" layer="91"/>
 <label x="355.854" y="47.752" size="1.016" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP11" gate="A" pin="8"/>
+<wire x1="494.538" y1="50.038" x2="489.712" y2="50.038" width="0.1524" layer="91"/>
+<label x="489.712" y="50.038" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="9" class="0">
@@ -4266,6 +4164,11 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 <wire x1="360.68" y1="45.212" x2="355.854" y2="45.212" width="0.1524" layer="91"/>
 <label x="355.854" y="45.212" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
+<segment>
+<pinref part="JP11" gate="A" pin="9"/>
+<wire x1="494.538" y1="47.498" x2="489.712" y2="47.498" width="0.1524" layer="91"/>
+<label x="489.712" y="47.498" size="1.016" layer="95" rot="R180" xref="yes"/>
+</segment>
 </net>
 <net name="10" class="0">
 <segment>
@@ -4277,6 +4180,11 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 <pinref part="JP1" gate="A" pin="10"/>
 <wire x1="360.68" y1="42.672" x2="355.854" y2="42.672" width="0.1524" layer="91"/>
 <label x="355.854" y="42.672" size="1.016" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP11" gate="A" pin="10"/>
+<wire x1="494.538" y1="44.958" x2="489.712" y2="44.958" width="0.1524" layer="91"/>
+<label x="489.712" y="44.958" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="11" class="0">
@@ -4290,6 +4198,11 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 <wire x1="360.68" y1="40.132" x2="355.854" y2="40.132" width="0.1524" layer="91"/>
 <label x="355.854" y="40.132" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
+<segment>
+<pinref part="JP11" gate="A" pin="11"/>
+<wire x1="494.538" y1="42.418" x2="489.712" y2="42.418" width="0.1524" layer="91"/>
+<label x="489.712" y="42.418" size="1.016" layer="95" rot="R180" xref="yes"/>
+</segment>
 </net>
 <net name="12" class="0">
 <segment>
@@ -4301,6 +4214,11 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 <pinref part="JP1" gate="A" pin="12"/>
 <wire x1="360.68" y1="37.592" x2="355.854" y2="37.592" width="0.1524" layer="91"/>
 <label x="355.854" y="37.592" size="1.016" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP11" gate="A" pin="12"/>
+<wire x1="494.538" y1="39.878" x2="489.712" y2="39.878" width="0.1524" layer="91"/>
+<label x="489.712" y="39.878" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="13" class="0">
@@ -4314,6 +4232,11 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 <wire x1="360.68" y1="35.052" x2="355.854" y2="35.052" width="0.1524" layer="91"/>
 <label x="355.854" y="35.052" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
+<segment>
+<pinref part="JP11" gate="A" pin="13"/>
+<wire x1="494.538" y1="37.338" x2="489.712" y2="37.338" width="0.1524" layer="91"/>
+<label x="489.712" y="37.338" size="1.016" layer="95" rot="R180" xref="yes"/>
+</segment>
 </net>
 <net name="14" class="0">
 <segment>
@@ -4325,6 +4248,11 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 <pinref part="JP1" gate="A" pin="14"/>
 <wire x1="360.68" y1="32.512" x2="355.854" y2="32.512" width="0.1524" layer="91"/>
 <label x="355.854" y="32.512" size="1.016" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP11" gate="A" pin="14"/>
+<wire x1="494.538" y1="34.798" x2="489.712" y2="34.798" width="0.1524" layer="91"/>
+<label x="489.712" y="34.798" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="15" class="0">
@@ -4338,12 +4266,27 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 <wire x1="360.68" y1="29.972" x2="355.854" y2="29.972" width="0.1524" layer="91"/>
 <label x="355.854" y="29.972" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
+<segment>
+<pinref part="JP11" gate="A" pin="15"/>
+<wire x1="494.538" y1="32.258" x2="489.712" y2="32.258" width="0.1524" layer="91"/>
+<label x="489.712" y="32.258" size="1.016" layer="95" rot="R180" xref="yes"/>
+</segment>
 </net>
 <net name="30" class="0">
 <segment>
 <pinref part="BOARD1" gate="G$1" pin="EN"/>
 <wire x1="456.438" y1="122.428" x2="457.962" y2="122.428" width="0.1524" layer="91"/>
 <label x="457.962" y="122.428" size="1.016" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP2" gate="A" pin="15"/>
+<wire x1="369.062" y1="65.532" x2="373.888" y2="65.532" width="0.1524" layer="91"/>
+<label x="373.888" y="65.532" size="1.016" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP12" gate="A" pin="15"/>
+<wire x1="502.92" y1="67.818" x2="507.746" y2="67.818" width="0.1524" layer="91"/>
+<label x="507.746" y="67.818" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="29" class="0">
@@ -4352,12 +4295,32 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 <wire x1="456.438" y1="124.968" x2="457.962" y2="124.968" width="0.1524" layer="91"/>
 <label x="457.962" y="124.968" size="1.016" layer="95" xref="yes"/>
 </segment>
+<segment>
+<pinref part="JP2" gate="A" pin="14"/>
+<wire x1="369.062" y1="62.992" x2="373.888" y2="62.992" width="0.1524" layer="91"/>
+<label x="373.888" y="62.992" size="1.016" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP12" gate="A" pin="14"/>
+<wire x1="502.92" y1="65.278" x2="507.746" y2="65.278" width="0.1524" layer="91"/>
+<label x="507.746" y="65.278" size="1.016" layer="95" xref="yes"/>
+</segment>
 </net>
 <net name="28" class="0">
 <segment>
 <pinref part="BOARD1" gate="G$1" pin="VN"/>
 <wire x1="456.438" y1="127.508" x2="457.962" y2="127.508" width="0.1524" layer="91"/>
 <label x="457.962" y="127.508" size="1.016" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP2" gate="A" pin="13"/>
+<wire x1="369.062" y1="60.452" x2="373.888" y2="60.452" width="0.1524" layer="91"/>
+<label x="373.888" y="60.452" size="1.016" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP12" gate="A" pin="13"/>
+<wire x1="502.92" y1="62.738" x2="507.746" y2="62.738" width="0.1524" layer="91"/>
+<label x="507.746" y="62.738" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="27" class="0">
@@ -4366,12 +4329,32 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 <wire x1="456.438" y1="130.048" x2="457.962" y2="130.048" width="0.1524" layer="91"/>
 <label x="457.962" y="130.048" size="1.016" layer="95" xref="yes"/>
 </segment>
+<segment>
+<pinref part="JP2" gate="A" pin="12"/>
+<wire x1="369.062" y1="57.912" x2="373.888" y2="57.912" width="0.1524" layer="91"/>
+<label x="373.888" y="57.912" size="1.016" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP12" gate="A" pin="12"/>
+<wire x1="502.92" y1="60.198" x2="507.746" y2="60.198" width="0.1524" layer="91"/>
+<label x="507.746" y="60.198" size="1.016" layer="95" xref="yes"/>
+</segment>
 </net>
 <net name="26" class="0">
 <segment>
 <pinref part="BOARD1" gate="G$1" pin="D35"/>
 <wire x1="456.438" y1="132.588" x2="458.216" y2="132.588" width="0.1524" layer="91"/>
 <label x="458.216" y="132.588" size="1.016" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP2" gate="A" pin="11"/>
+<wire x1="369.062" y1="55.372" x2="373.888" y2="55.372" width="0.1524" layer="91"/>
+<label x="373.888" y="55.372" size="1.016" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP12" gate="A" pin="11"/>
+<wire x1="502.92" y1="57.658" x2="507.746" y2="57.658" width="0.1524" layer="91"/>
+<label x="507.746" y="57.658" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="25" class="0">
@@ -4381,12 +4364,32 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 <wire x1="458.216" y1="135.128" x2="457.962" y2="135.128" width="0.1524" layer="91"/>
 <label x="458.216" y="135.128" size="1.016" layer="95" xref="yes"/>
 </segment>
+<segment>
+<pinref part="JP2" gate="A" pin="10"/>
+<wire x1="369.062" y1="52.832" x2="373.888" y2="52.832" width="0.1524" layer="91"/>
+<label x="373.888" y="52.832" size="1.016" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP12" gate="A" pin="10"/>
+<wire x1="502.92" y1="55.118" x2="507.746" y2="55.118" width="0.1524" layer="91"/>
+<label x="507.746" y="55.118" size="1.016" layer="95" xref="yes"/>
+</segment>
 </net>
 <net name="24" class="0">
 <segment>
 <pinref part="BOARD1" gate="G$1" pin="D33"/>
 <wire x1="456.438" y1="137.668" x2="458.216" y2="137.668" width="0.1524" layer="91"/>
 <label x="458.216" y="137.668" size="1.016" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP2" gate="A" pin="9"/>
+<wire x1="369.062" y1="50.292" x2="373.888" y2="50.292" width="0.1524" layer="91"/>
+<label x="373.888" y="50.292" size="1.016" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP12" gate="A" pin="9"/>
+<wire x1="502.92" y1="52.578" x2="507.746" y2="52.578" width="0.1524" layer="91"/>
+<label x="507.746" y="52.578" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="23" class="0">
@@ -4395,12 +4398,32 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 <wire x1="456.438" y1="140.208" x2="458.216" y2="140.208" width="0.1524" layer="91"/>
 <label x="458.216" y="140.208" size="1.016" layer="95" xref="yes"/>
 </segment>
+<segment>
+<pinref part="JP2" gate="A" pin="8"/>
+<wire x1="369.062" y1="47.752" x2="373.888" y2="47.752" width="0.1524" layer="91"/>
+<label x="373.888" y="47.752" size="1.016" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP12" gate="A" pin="8"/>
+<wire x1="502.92" y1="50.038" x2="507.746" y2="50.038" width="0.1524" layer="91"/>
+<label x="507.746" y="50.038" size="1.016" layer="95" xref="yes"/>
+</segment>
 </net>
 <net name="22" class="0">
 <segment>
 <pinref part="BOARD1" gate="G$1" pin="D26"/>
 <wire x1="456.438" y1="142.748" x2="458.216" y2="142.748" width="0.1524" layer="91"/>
 <label x="458.216" y="142.748" size="1.016" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP2" gate="A" pin="7"/>
+<wire x1="369.062" y1="45.212" x2="373.888" y2="45.212" width="0.1524" layer="91"/>
+<label x="373.888" y="45.212" size="1.016" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP12" gate="A" pin="7"/>
+<wire x1="502.92" y1="47.498" x2="507.746" y2="47.498" width="0.1524" layer="91"/>
+<label x="507.746" y="47.498" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="21" class="0">
@@ -4409,12 +4432,32 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 <wire x1="456.438" y1="145.288" x2="458.216" y2="145.288" width="0.1524" layer="91"/>
 <label x="458.216" y="145.288" size="1.016" layer="95" xref="yes"/>
 </segment>
+<segment>
+<pinref part="JP2" gate="A" pin="6"/>
+<wire x1="369.062" y1="42.672" x2="373.888" y2="42.672" width="0.1524" layer="91"/>
+<label x="373.888" y="42.672" size="1.016" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP12" gate="A" pin="6"/>
+<wire x1="502.92" y1="44.958" x2="507.746" y2="44.958" width="0.1524" layer="91"/>
+<label x="507.746" y="44.958" size="1.016" layer="95" xref="yes"/>
+</segment>
 </net>
 <net name="20" class="0">
 <segment>
 <pinref part="BOARD1" gate="G$1" pin="D14"/>
 <wire x1="456.438" y1="147.828" x2="458.216" y2="147.828" width="0.1524" layer="91"/>
 <label x="458.216" y="147.828" size="1.016" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP2" gate="A" pin="5"/>
+<wire x1="369.062" y1="40.132" x2="373.888" y2="40.132" width="0.1524" layer="91"/>
+<label x="373.888" y="40.132" size="1.016" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP12" gate="A" pin="5"/>
+<wire x1="502.92" y1="42.418" x2="507.746" y2="42.418" width="0.1524" layer="91"/>
+<label x="507.746" y="42.418" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="19" class="0">
@@ -4423,6 +4466,16 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 <wire x1="456.438" y1="150.368" x2="458.216" y2="150.368" width="0.1524" layer="91"/>
 <label x="458.216" y="150.368" size="1.016" layer="95" xref="yes"/>
 </segment>
+<segment>
+<pinref part="JP2" gate="A" pin="4"/>
+<wire x1="369.062" y1="37.592" x2="373.888" y2="37.592" width="0.1524" layer="91"/>
+<label x="373.888" y="37.592" size="1.016" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP12" gate="A" pin="4"/>
+<wire x1="502.92" y1="39.878" x2="507.746" y2="39.878" width="0.1524" layer="91"/>
+<label x="507.746" y="39.878" size="1.016" layer="95" xref="yes"/>
+</segment>
 </net>
 <net name="18" class="0">
 <segment>
@@ -4430,12 +4483,32 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 <wire x1="456.438" y1="152.908" x2="458.216" y2="152.908" width="0.1524" layer="91"/>
 <label x="458.216" y="152.908" size="1.016" layer="95" xref="yes"/>
 </segment>
+<segment>
+<pinref part="JP2" gate="A" pin="3"/>
+<wire x1="369.062" y1="35.052" x2="373.888" y2="35.052" width="0.1524" layer="91"/>
+<label x="373.888" y="35.052" size="1.016" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP12" gate="A" pin="3"/>
+<wire x1="502.92" y1="37.338" x2="507.746" y2="37.338" width="0.1524" layer="91"/>
+<label x="507.746" y="37.338" size="1.016" layer="95" xref="yes"/>
+</segment>
 </net>
 <net name="17" class="0">
 <segment>
 <pinref part="BOARD1" gate="G$1" pin="GND"/>
 <wire x1="456.438" y1="155.448" x2="458.216" y2="155.448" width="0.1524" layer="91"/>
 <label x="458.216" y="155.448" size="1.016" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP2" gate="A" pin="2"/>
+<wire x1="369.062" y1="32.512" x2="373.888" y2="32.512" width="0.1524" layer="91"/>
+<label x="373.888" y="32.512" size="1.016" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP12" gate="A" pin="2"/>
+<wire x1="502.92" y1="34.798" x2="507.746" y2="34.798" width="0.1524" layer="91"/>
+<label x="507.746" y="34.798" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="16" class="0">
@@ -4445,9 +4518,14 @@ Source: &lt;a href="http://www.phoenixcontact.com/de/produkte/1759017/pdf"&gt; D
 <label x="458.216" y="157.988" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="JP2" gate="A" pin="15"/>
-<wire x1="369.062" y1="65.532" x2="373.888" y2="65.532" width="0.1524" layer="91"/>
-<label x="373.888" y="65.532" size="1.016" layer="95" xref="yes"/>
+<pinref part="JP2" gate="A" pin="1"/>
+<wire x1="369.062" y1="29.972" x2="373.888" y2="29.972" width="0.1524" layer="91"/>
+<label x="373.888" y="29.972" size="1.016" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP12" gate="A" pin="1"/>
+<wire x1="502.92" y1="32.258" x2="507.746" y2="32.258" width="0.1524" layer="91"/>
+<label x="507.746" y="32.258" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 </nets>

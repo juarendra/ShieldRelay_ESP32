@@ -2866,7 +2866,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </classes>
 <parts>
 <part name="FRAME1" library="frames" library_urn="urn:adsk.eagle:library:229" deviceset="A4L-LOC" device=""/>
-<part name="BOARD1" library="ESP32-DEVKITV1" deviceset="ESP32DEVKITV1" device=""/>
+<part name="BOARD" library="ESP32-DEVKITV1" deviceset="ESP32DEVKITV1" device=""/>
 <part name="K1" library="SLA-05VDC-SL-C" deviceset="SLA-05VDC-SL-C" device=""/>
 <part name="K2" library="SRD-05VDC-SL-C" deviceset="SRD-05VDC-SL-C" device=""/>
 <part name="K5" library="G3MB-202PL-DC5" deviceset="G3MB-202PL-DC5" device=""/>
@@ -2882,7 +2882,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 <part name="H4" library="3mm_special_hole" library_urn="urn:adsk.eagle:library:36448710" deviceset="3MM_HOLE" device="" package3d_urn="urn:adsk.eagle:package:36448714/1"/>
 <part name="IC1" library="LM2596SX-5.0_NOPB" deviceset="LM2596SX-5.0_NOPB" device=""/>
 <part name="Q1" library="MMST2222A-7-F" deviceset="MMST2222A-7-F" device=""/>
-<part name="LED6" library="SamacSys_Parts" library_urn="urn:adsk.eagle:library:22641528" deviceset="150080SS75000" device="" package3d_urn="urn:adsk.eagle:package:22724977/2"/>
+<part name="RL2" library="SamacSys_Parts" library_urn="urn:adsk.eagle:library:22641528" deviceset="150080SS75000" device="" package3d_urn="urn:adsk.eagle:package:22724977/2"/>
 <part name="R1" library="ERA-3AED102V" deviceset="ERA-3AED102V" device="" value="1k"/>
 <part name="D1" library="FM4004-W" deviceset="FM4004-W" device=""/>
 <part name="R2" library="ERA-3AED102V" deviceset="ERA-3AED102V" device="" value="1k"/>
@@ -2890,21 +2890,21 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 <part name="GND1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="K6" library="SRD-05VDC-SL-C" deviceset="SRD-05VDC-SL-C" device=""/>
 <part name="Q2" library="MMST2222A-7-F" deviceset="MMST2222A-7-F" device=""/>
-<part name="LED1" library="SamacSys_Parts" library_urn="urn:adsk.eagle:library:22641528" deviceset="150080SS75000" device="" package3d_urn="urn:adsk.eagle:package:22724977/2"/>
+<part name="RL3" library="SamacSys_Parts" library_urn="urn:adsk.eagle:library:22641528" deviceset="150080SS75000" device="" package3d_urn="urn:adsk.eagle:package:22724977/2"/>
 <part name="R3" library="ERA-3AED102V" deviceset="ERA-3AED102V" device="" value="1k"/>
 <part name="D2" library="FM4004-W" deviceset="FM4004-W" device=""/>
 <part name="R4" library="ERA-3AED102V" deviceset="ERA-3AED102V" device="" value="1k"/>
 <part name="P+2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="GND2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="Q3" library="MMST2222A-7-F" deviceset="MMST2222A-7-F" device=""/>
-<part name="LED2" library="SamacSys_Parts" library_urn="urn:adsk.eagle:library:22641528" deviceset="150080SS75000" device="" package3d_urn="urn:adsk.eagle:package:22724977/2"/>
+<part name="RL1" library="SamacSys_Parts" library_urn="urn:adsk.eagle:library:22641528" deviceset="150080SS75000" device="" package3d_urn="urn:adsk.eagle:package:22724977/2"/>
 <part name="R5" library="ERA-3AED102V" deviceset="ERA-3AED102V" device="" value="1k"/>
 <part name="D3" library="FM4004-W" deviceset="FM4004-W" device=""/>
 <part name="R6" library="ERA-3AED102V" deviceset="ERA-3AED102V" device="" value="1k"/>
 <part name="P+3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="GND3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="Q4" library="MMST2222A-7-F" deviceset="MMST2222A-7-F" device=""/>
-<part name="LED3" library="SamacSys_Parts" library_urn="urn:adsk.eagle:library:22641528" deviceset="150080SS75000" device="" package3d_urn="urn:adsk.eagle:package:22724977/2"/>
+<part name="RL4" library="SamacSys_Parts" library_urn="urn:adsk.eagle:library:22641528" deviceset="150080SS75000" device="" package3d_urn="urn:adsk.eagle:package:22724977/2"/>
 <part name="R7" library="ERA-3AED102V" deviceset="ERA-3AED102V" device="" value="1k"/>
 <part name="D4" library="FM4004-W" deviceset="FM4004-W" device=""/>
 <part name="R8" library="ERA-3AED102V" deviceset="ERA-3AED102V" device="" value="1k"/>
@@ -2912,7 +2912,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 <part name="GND4" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="K3" library="G3MB-202PL-DC5" deviceset="G3MB-202PL-DC5" device=""/>
 <part name="Q5" library="MMST2222A-7-F" deviceset="MMST2222A-7-F" device=""/>
-<part name="LED4" library="SamacSys_Parts" library_urn="urn:adsk.eagle:library:22641528" deviceset="150080SS75000" device="" package3d_urn="urn:adsk.eagle:package:22724977/2"/>
+<part name="RL5" library="SamacSys_Parts" library_urn="urn:adsk.eagle:library:22641528" deviceset="150080SS75000" device="" package3d_urn="urn:adsk.eagle:package:22724977/2"/>
 <part name="R9" library="ERA-3AED102V" deviceset="ERA-3AED102V" device="" value="1k"/>
 <part name="D5" library="FM4004-W" deviceset="FM4004-W" device=""/>
 <part name="R10" library="ERA-3AED102V" deviceset="ERA-3AED102V" device="" value="1k"/>
@@ -2934,7 +2934,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 <part name="+3V1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
 <part name="P+8" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="VCC" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-2X4" device="" package3d_urn="urn:adsk.eagle:package:22461/2"/>
-<part name="GND_" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-2X4" device="" package3d_urn="urn:adsk.eagle:package:22461/2"/>
+<part name="GND_2" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-2X4" device="" package3d_urn="urn:adsk.eagle:package:22461/2"/>
 <part name="VIN" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-2X4" device="" package3d_urn="urn:adsk.eagle:package:22461/2"/>
 <part name="P+9" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC/2" device=""/>
 <part name="P+10" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC/2" device=""/>
@@ -2944,7 +2944,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 <part name="JP11" library="pinhead_mod" deviceset="PINHD-1X15" device="" package3d_urn="urn:adsk.eagle:package:22424/2"/>
 <part name="JP12" library="pinhead_mod" deviceset="PINHD-1X15" device="" package3d_urn="urn:adsk.eagle:package:22424/2"/>
 <part name="JP13" library="pinhead_mod" deviceset="PINHD-1X15" device="" package3d_urn="urn:adsk.eagle:package:22424/2"/>
-<part name="GND" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-2X4" device="" package3d_urn="urn:adsk.eagle:package:22461/2"/>
+<part name="GND_1" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-2X4" device="" package3d_urn="urn:adsk.eagle:package:22461/2"/>
 <part name="IC2" library="LM1117MPX-33NOPB" deviceset="LM1117MPX-33NOPB" device=""/>
 <part name="C1" library="KGM15BR71E104KT" deviceset="KGM15BR71E104KT" device="" value="0.1uf"/>
 <part name="C2" library="KGM15BR71E104KT" deviceset="KGM15BR71E104KT" device="" value="0.1uf"/>
@@ -2966,7 +2966,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 <attribute name="LAST_DATE_TIME" x="217.17" y="10.16" size="2.286" layer="94"/>
 <attribute name="SHEET" x="230.505" y="5.08" size="2.54" layer="94"/>
 </instance>
-<instance part="BOARD1" gate="G$1" x="453.898" y="168.148" smashed="yes" rot="R180">
+<instance part="BOARD" gate="G$1" x="453.898" y="168.148" smashed="yes" rot="R180">
 <attribute name="NAME" x="450.723" y="110.363" size="1.27" layer="95" rot="R180"/>
 </instance>
 <instance part="K1" gate="G$1" x="78.994" y="119.634" smashed="yes" rot="R90">
@@ -3017,7 +3017,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 <attribute name="NAME" x="49.022" y="114.808" size="1.016" layer="95" rot="R180" align="center-left"/>
 <attribute name="VALUE" x="48.768" y="116.586" size="1.016" layer="96" rot="R180" align="center-left"/>
 </instance>
-<instance part="LED6" gate="G$1" x="44.704" y="121.412" smashed="yes" rot="R90">
+<instance part="RL2" gate="G$1" x="44.704" y="121.412" smashed="yes" rot="R90">
 <attribute name="NAME" x="46.482" y="132.588" size="1.016" layer="95" rot="R90"/>
 </instance>
 <instance part="R1" gate="G$1" x="44.704" y="137.16" smashed="yes" rot="R90">
@@ -3046,7 +3046,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 <attribute name="NAME" x="49.022" y="49.53" size="1.016" layer="95" rot="R180" align="center-left"/>
 <attribute name="VALUE" x="48.768" y="51.308" size="1.016" layer="96" rot="R180" align="center-left"/>
 </instance>
-<instance part="LED1" gate="G$1" x="44.704" y="56.134" smashed="yes" rot="R90">
+<instance part="RL3" gate="G$1" x="44.704" y="56.134" smashed="yes" rot="R90">
 <attribute name="NAME" x="46.482" y="67.31" size="1.016" layer="95" rot="R90"/>
 </instance>
 <instance part="R3" gate="G$1" x="44.704" y="71.882" smashed="yes" rot="R90">
@@ -3071,7 +3071,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 <attribute name="NAME" x="105.664" y="114.808" size="1.016" layer="95" rot="R180" align="center-left"/>
 <attribute name="VALUE" x="105.41" y="116.586" size="1.016" layer="96" rot="R180" align="center-left"/>
 </instance>
-<instance part="LED2" gate="G$1" x="101.346" y="121.412" smashed="yes" rot="R90">
+<instance part="RL1" gate="G$1" x="101.346" y="121.412" smashed="yes" rot="R90">
 <attribute name="NAME" x="103.124" y="132.588" size="1.016" layer="95" rot="R90"/>
 </instance>
 <instance part="R5" gate="G$1" x="101.346" y="137.16" smashed="yes" rot="R90">
@@ -3096,7 +3096,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 <attribute name="NAME" x="104.902" y="46.736" size="1.016" layer="95" rot="R180" align="center-left"/>
 <attribute name="VALUE" x="104.648" y="48.514" size="1.016" layer="96" rot="R180" align="center-left"/>
 </instance>
-<instance part="LED3" gate="G$1" x="100.584" y="53.34" smashed="yes" rot="R90">
+<instance part="RL4" gate="G$1" x="100.584" y="53.34" smashed="yes" rot="R90">
 <attribute name="NAME" x="102.362" y="64.516" size="1.016" layer="95" rot="R90"/>
 </instance>
 <instance part="R7" gate="G$1" x="100.584" y="69.088" smashed="yes" rot="R90">
@@ -3125,7 +3125,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 <attribute name="NAME" x="158.242" y="114.554" size="1.016" layer="95" rot="R180" align="center-left"/>
 <attribute name="VALUE" x="157.988" y="116.332" size="1.016" layer="96" rot="R180" align="center-left"/>
 </instance>
-<instance part="LED4" gate="G$1" x="153.924" y="121.158" smashed="yes" rot="R90">
+<instance part="RL5" gate="G$1" x="153.924" y="121.158" smashed="yes" rot="R90">
 <attribute name="NAME" x="155.702" y="132.334" size="1.016" layer="95" rot="R90"/>
 </instance>
 <instance part="R9" gate="G$1" x="153.924" y="136.906" smashed="yes" rot="R90">
@@ -3203,7 +3203,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 <attribute name="NAME" x="414.782" y="88.773" size="1.778" layer="95"/>
 <attribute name="VALUE" x="414.782" y="72.898" size="1.778" layer="96"/>
 </instance>
-<instance part="GND_" gate="A" x="439.42" y="79.756" smashed="yes">
+<instance part="GND_2" gate="A" x="439.42" y="79.756" smashed="yes">
 <attribute name="NAME" x="433.07" y="88.011" size="1.778" layer="95"/>
 <attribute name="VALUE" x="433.07" y="72.136" size="1.778" layer="96"/>
 </instance>
@@ -3238,7 +3238,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 <attribute name="NAME" x="541.02" y="73.025" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="540.512" y="72.898" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="GND" gate="A" x="456.184" y="79.756" smashed="yes">
+<instance part="GND_1" gate="A" x="456.184" y="79.756" smashed="yes">
 <attribute name="NAME" x="449.834" y="88.011" size="1.778" layer="95"/>
 <attribute name="VALUE" x="449.834" y="72.136" size="1.778" layer="96"/>
 </instance>
@@ -3267,7 +3267,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 <net name="N$2" class="0">
 <segment>
 <pinref part="R1" gate="G$1" pin="1"/>
-<pinref part="LED6" gate="G$1" pin="A"/>
+<pinref part="RL2" gate="G$1" pin="A"/>
 <wire x1="44.704" y1="137.16" x2="44.704" y2="136.652" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -3277,7 +3277,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 <pinref part="K2" gate="G$1" pin="COIL_2"/>
 <wire x1="27.432" y1="119.634" x2="37.592" y2="119.634" width="0.1524" layer="91"/>
 <wire x1="37.592" y1="119.634" x2="37.592" y2="130.048" width="0.1524" layer="91"/>
-<pinref part="LED6" gate="G$1" pin="K"/>
+<pinref part="RL2" gate="G$1" pin="K"/>
 <wire x1="37.592" y1="119.634" x2="44.704" y2="119.634" width="0.1524" layer="91"/>
 <wire x1="44.704" y1="119.634" x2="44.704" y2="121.412" width="0.1524" layer="91"/>
 <junction x="37.592" y="119.634"/>
@@ -3530,56 +3530,56 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 <junction x="445.008" y="65.278"/>
 <pinref part="GND8" gate="1" pin="GND"/>
 <junction x="440.69" y="28.194"/>
-<pinref part="GND_" gate="A" pin="7"/>
+<pinref part="GND_2" gate="A" pin="7"/>
 <wire x1="436.372" y1="67.818" x2="436.372" y2="77.216" width="0.1524" layer="91"/>
 <wire x1="436.372" y1="77.216" x2="436.88" y2="77.216" width="0.1524" layer="91"/>
 <junction x="436.372" y="67.818"/>
-<pinref part="GND_" gate="A" pin="5"/>
+<pinref part="GND_2" gate="A" pin="5"/>
 <wire x1="436.88" y1="77.216" x2="436.88" y2="79.756" width="0.1524" layer="91"/>
 <junction x="436.88" y="77.216"/>
-<pinref part="GND_" gate="A" pin="3"/>
+<pinref part="GND_2" gate="A" pin="3"/>
 <wire x1="436.88" y1="79.756" x2="436.88" y2="82.296" width="0.1524" layer="91"/>
 <junction x="436.88" y="79.756"/>
-<pinref part="GND_" gate="A" pin="1"/>
+<pinref part="GND_2" gate="A" pin="1"/>
 <wire x1="436.88" y1="82.296" x2="436.88" y2="84.836" width="0.1524" layer="91"/>
 <junction x="436.88" y="82.296"/>
 <wire x1="436.88" y1="84.836" x2="436.88" y2="91.694" width="0.1524" layer="91"/>
 <wire x1="436.88" y1="91.694" x2="444.5" y2="91.694" width="0.1524" layer="91"/>
 <junction x="436.88" y="84.836"/>
-<pinref part="GND_" gate="A" pin="2"/>
+<pinref part="GND_2" gate="A" pin="2"/>
 <wire x1="444.5" y1="91.694" x2="444.5" y2="84.836" width="0.1524" layer="91"/>
-<pinref part="GND_" gate="A" pin="4"/>
+<pinref part="GND_2" gate="A" pin="4"/>
 <wire x1="444.5" y1="84.836" x2="444.5" y2="82.296" width="0.1524" layer="91"/>
 <junction x="444.5" y="84.836"/>
-<pinref part="GND_" gate="A" pin="6"/>
+<pinref part="GND_2" gate="A" pin="6"/>
 <wire x1="444.5" y1="82.296" x2="444.5" y2="79.756" width="0.1524" layer="91"/>
 <junction x="444.5" y="82.296"/>
-<pinref part="GND_" gate="A" pin="8"/>
+<pinref part="GND_2" gate="A" pin="8"/>
 <wire x1="444.5" y1="79.756" x2="444.5" y2="77.216" width="0.1524" layer="91"/>
 <junction x="444.5" y="79.756"/>
-<pinref part="GND" gate="A" pin="1"/>
+<pinref part="GND_1" gate="A" pin="1"/>
 <wire x1="444.5" y1="91.694" x2="453.644" y2="91.694" width="0.1524" layer="91"/>
 <wire x1="453.644" y1="91.694" x2="453.644" y2="84.836" width="0.1524" layer="91"/>
-<pinref part="GND" gate="A" pin="3"/>
+<pinref part="GND_1" gate="A" pin="3"/>
 <wire x1="453.644" y1="84.836" x2="453.644" y2="82.296" width="0.1524" layer="91"/>
 <junction x="453.644" y="84.836"/>
-<pinref part="GND" gate="A" pin="5"/>
+<pinref part="GND_1" gate="A" pin="5"/>
 <wire x1="453.644" y1="82.296" x2="453.644" y2="79.756" width="0.1524" layer="91"/>
 <junction x="453.644" y="82.296"/>
-<pinref part="GND" gate="A" pin="7"/>
+<pinref part="GND_1" gate="A" pin="7"/>
 <wire x1="453.644" y1="79.756" x2="453.644" y2="77.216" width="0.1524" layer="91"/>
 <junction x="453.644" y="79.756"/>
-<pinref part="GND" gate="A" pin="2"/>
+<pinref part="GND_1" gate="A" pin="2"/>
 <wire x1="453.644" y1="91.694" x2="461.264" y2="91.694" width="0.1524" layer="91"/>
 <wire x1="461.264" y1="91.694" x2="461.264" y2="84.836" width="0.1524" layer="91"/>
 <junction x="453.644" y="91.694"/>
-<pinref part="GND" gate="A" pin="4"/>
+<pinref part="GND_1" gate="A" pin="4"/>
 <wire x1="461.264" y1="84.836" x2="461.264" y2="82.296" width="0.1524" layer="91"/>
 <junction x="461.264" y="84.836"/>
-<pinref part="GND" gate="A" pin="6"/>
+<pinref part="GND_1" gate="A" pin="6"/>
 <wire x1="461.264" y1="82.296" x2="461.264" y2="79.756" width="0.1524" layer="91"/>
 <junction x="461.264" y="82.296"/>
-<pinref part="GND" gate="A" pin="8"/>
+<pinref part="GND_1" gate="A" pin="8"/>
 <wire x1="461.264" y1="79.756" x2="461.264" y2="77.216" width="0.1524" layer="91"/>
 <junction x="461.264" y="79.756"/>
 </segment>
@@ -3614,7 +3614,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 <net name="N$1" class="0">
 <segment>
 <pinref part="R3" gate="G$1" pin="1"/>
-<pinref part="LED1" gate="G$1" pin="A"/>
+<pinref part="RL3" gate="G$1" pin="A"/>
 <wire x1="44.704" y1="71.882" x2="44.704" y2="71.374" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -3624,7 +3624,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 <pinref part="K6" gate="G$1" pin="COIL_2"/>
 <wire x1="27.432" y1="54.356" x2="37.592" y2="54.356" width="0.1524" layer="91"/>
 <wire x1="37.592" y1="54.356" x2="37.592" y2="64.77" width="0.1524" layer="91"/>
-<pinref part="LED1" gate="G$1" pin="K"/>
+<pinref part="RL3" gate="G$1" pin="K"/>
 <wire x1="37.592" y1="54.356" x2="44.704" y2="54.356" width="0.1524" layer="91"/>
 <wire x1="44.704" y1="54.356" x2="44.704" y2="56.134" width="0.1524" layer="91"/>
 <junction x="37.592" y="54.356"/>
@@ -3642,7 +3642,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 <net name="N$7" class="0">
 <segment>
 <pinref part="R5" gate="G$1" pin="1"/>
-<pinref part="LED2" gate="G$1" pin="A"/>
+<pinref part="RL1" gate="G$1" pin="A"/>
 <wire x1="101.346" y1="137.16" x2="101.346" y2="136.652" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -3651,7 +3651,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 <pinref part="D3" gate="G$1" pin="A"/>
 <wire x1="84.074" y1="119.634" x2="94.234" y2="119.634" width="0.1524" layer="91"/>
 <wire x1="94.234" y1="119.634" x2="94.234" y2="130.048" width="0.1524" layer="91"/>
-<pinref part="LED2" gate="G$1" pin="K"/>
+<pinref part="RL1" gate="G$1" pin="K"/>
 <wire x1="94.234" y1="119.634" x2="101.346" y2="119.634" width="0.1524" layer="91"/>
 <wire x1="101.346" y1="119.634" x2="101.346" y2="121.412" width="0.1524" layer="91"/>
 <junction x="94.234" y="119.634"/>
@@ -3671,7 +3671,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 <net name="N$10" class="0">
 <segment>
 <pinref part="R7" gate="G$1" pin="1"/>
-<pinref part="LED3" gate="G$1" pin="A"/>
+<pinref part="RL4" gate="G$1" pin="A"/>
 <wire x1="100.584" y1="69.088" x2="100.584" y2="68.58" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -3679,7 +3679,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 <segment>
 <pinref part="D4" gate="G$1" pin="A"/>
 <wire x1="93.472" y1="51.562" x2="93.472" y2="61.976" width="0.1524" layer="91"/>
-<pinref part="LED3" gate="G$1" pin="K"/>
+<pinref part="RL4" gate="G$1" pin="K"/>
 <wire x1="93.472" y1="51.562" x2="100.584" y2="51.562" width="0.1524" layer="91"/>
 <wire x1="100.584" y1="51.562" x2="100.584" y2="53.34" width="0.1524" layer="91"/>
 <junction x="93.472" y="51.562"/>
@@ -3701,7 +3701,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 <net name="N$13" class="0">
 <segment>
 <pinref part="R9" gate="G$1" pin="1"/>
-<pinref part="LED4" gate="G$1" pin="A"/>
+<pinref part="RL5" gate="G$1" pin="A"/>
 <wire x1="153.924" y1="136.906" x2="153.924" y2="136.398" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -3709,7 +3709,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 <segment>
 <pinref part="D5" gate="G$1" pin="A"/>
 <wire x1="146.812" y1="119.38" x2="146.812" y2="129.794" width="0.1524" layer="91"/>
-<pinref part="LED4" gate="G$1" pin="K"/>
+<pinref part="RL5" gate="G$1" pin="K"/>
 <wire x1="146.812" y1="119.38" x2="153.924" y2="119.38" width="0.1524" layer="91"/>
 <wire x1="153.924" y1="119.38" x2="153.924" y2="121.158" width="0.1524" layer="91"/>
 <junction x="146.812" y="119.38"/>
@@ -4116,7 +4116,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="1" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="3V3"/>
+<pinref part="BOARD" gate="G$1" pin="3V3"/>
 <wire x1="415.798" y1="157.988" x2="414.528" y2="157.988" width="0.1524" layer="91"/>
 <label x="414.528" y="157.988" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -4133,7 +4133,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="2" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="GND@1"/>
+<pinref part="BOARD" gate="G$1" pin="GND@1"/>
 <wire x1="415.798" y1="155.448" x2="414.528" y2="155.448" width="0.1524" layer="91"/>
 <label x="414.528" y="155.448" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -4150,7 +4150,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="3" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="D15"/>
+<pinref part="BOARD" gate="G$1" pin="D15"/>
 <wire x1="415.798" y1="152.908" x2="414.528" y2="152.908" width="0.1524" layer="91"/>
 <label x="414.528" y="152.908" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -4167,7 +4167,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="4" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="D2"/>
+<pinref part="BOARD" gate="G$1" pin="D2"/>
 <wire x1="415.798" y1="150.368" x2="414.528" y2="150.368" width="0.1524" layer="91"/>
 <label x="414.528" y="150.368" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -4184,7 +4184,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="5" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="D4"/>
+<pinref part="BOARD" gate="G$1" pin="D4"/>
 <wire x1="415.798" y1="147.828" x2="414.528" y2="147.828" width="0.1524" layer="91"/>
 <label x="414.528" y="147.828" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -4201,7 +4201,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="6" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="D16"/>
+<pinref part="BOARD" gate="G$1" pin="D16"/>
 <wire x1="415.798" y1="145.288" x2="414.528" y2="145.288" width="0.1524" layer="91"/>
 <label x="414.528" y="145.288" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -4218,7 +4218,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="7" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="D17"/>
+<pinref part="BOARD" gate="G$1" pin="D17"/>
 <wire x1="415.798" y1="142.748" x2="414.528" y2="142.748" width="0.1524" layer="91"/>
 <label x="414.528" y="142.748" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -4235,7 +4235,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="8" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="D5"/>
+<pinref part="BOARD" gate="G$1" pin="D5"/>
 <wire x1="415.798" y1="140.208" x2="414.528" y2="140.208" width="0.1524" layer="91"/>
 <label x="414.528" y="140.208" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -4252,7 +4252,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="9" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="D18"/>
+<pinref part="BOARD" gate="G$1" pin="D18"/>
 <wire x1="415.798" y1="137.668" x2="414.528" y2="137.668" width="0.1524" layer="91"/>
 <label x="414.528" y="137.668" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -4269,7 +4269,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="10" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="D19"/>
+<pinref part="BOARD" gate="G$1" pin="D19"/>
 <wire x1="415.798" y1="135.128" x2="414.528" y2="135.128" width="0.1524" layer="91"/>
 <label x="414.528" y="135.128" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -4286,7 +4286,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="11" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="D21"/>
+<pinref part="BOARD" gate="G$1" pin="D21"/>
 <wire x1="415.798" y1="132.588" x2="414.528" y2="132.588" width="0.1524" layer="91"/>
 <label x="414.528" y="132.588" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -4303,7 +4303,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="12" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="D3"/>
+<pinref part="BOARD" gate="G$1" pin="D3"/>
 <wire x1="415.798" y1="130.048" x2="414.528" y2="130.048" width="0.1524" layer="91"/>
 <label x="414.528" y="130.048" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -4320,7 +4320,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="13" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="D1"/>
+<pinref part="BOARD" gate="G$1" pin="D1"/>
 <wire x1="415.798" y1="127.508" x2="414.528" y2="127.508" width="0.1524" layer="91"/>
 <label x="414.528" y="127.508" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -4337,7 +4337,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="14" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="D22"/>
+<pinref part="BOARD" gate="G$1" pin="D22"/>
 <wire x1="415.798" y1="124.968" x2="414.528" y2="124.968" width="0.1524" layer="91"/>
 <label x="414.528" y="124.968" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -4354,7 +4354,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="15" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="D23"/>
+<pinref part="BOARD" gate="G$1" pin="D23"/>
 <wire x1="415.798" y1="122.428" x2="414.528" y2="122.428" width="0.1524" layer="91"/>
 <label x="414.528" y="122.428" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -4371,7 +4371,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="30" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="EN"/>
+<pinref part="BOARD" gate="G$1" pin="EN"/>
 <wire x1="456.438" y1="122.428" x2="457.962" y2="122.428" width="0.1524" layer="91"/>
 <label x="457.962" y="122.428" size="1.016" layer="95" xref="yes"/>
 </segment>
@@ -4388,7 +4388,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="29" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="VP"/>
+<pinref part="BOARD" gate="G$1" pin="VP"/>
 <wire x1="456.438" y1="124.968" x2="457.962" y2="124.968" width="0.1524" layer="91"/>
 <label x="457.962" y="124.968" size="1.016" layer="95" xref="yes"/>
 </segment>
@@ -4405,7 +4405,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="28" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="VN"/>
+<pinref part="BOARD" gate="G$1" pin="VN"/>
 <wire x1="456.438" y1="127.508" x2="457.962" y2="127.508" width="0.1524" layer="91"/>
 <label x="457.962" y="127.508" size="1.016" layer="95" xref="yes"/>
 </segment>
@@ -4422,7 +4422,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="27" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="D34"/>
+<pinref part="BOARD" gate="G$1" pin="D34"/>
 <wire x1="456.438" y1="130.048" x2="457.962" y2="130.048" width="0.1524" layer="91"/>
 <label x="457.962" y="130.048" size="1.016" layer="95" xref="yes"/>
 </segment>
@@ -4439,7 +4439,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="26" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="D35"/>
+<pinref part="BOARD" gate="G$1" pin="D35"/>
 <wire x1="456.438" y1="132.588" x2="458.216" y2="132.588" width="0.1524" layer="91"/>
 <label x="458.216" y="132.588" size="1.016" layer="95" xref="yes"/>
 </segment>
@@ -4456,7 +4456,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="25" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="D32"/>
+<pinref part="BOARD" gate="G$1" pin="D32"/>
 <wire x1="456.438" y1="135.128" x2="457.962" y2="135.128" width="0.1524" layer="91"/>
 <wire x1="458.216" y1="135.128" x2="457.962" y2="135.128" width="0.1524" layer="91"/>
 <label x="458.216" y="135.128" size="1.016" layer="95" xref="yes"/>
@@ -4474,7 +4474,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="24" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="D33"/>
+<pinref part="BOARD" gate="G$1" pin="D33"/>
 <wire x1="456.438" y1="137.668" x2="458.216" y2="137.668" width="0.1524" layer="91"/>
 <label x="458.216" y="137.668" size="1.016" layer="95" xref="yes"/>
 </segment>
@@ -4491,7 +4491,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="23" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="D25"/>
+<pinref part="BOARD" gate="G$1" pin="D25"/>
 <wire x1="456.438" y1="140.208" x2="458.216" y2="140.208" width="0.1524" layer="91"/>
 <label x="458.216" y="140.208" size="1.016" layer="95" xref="yes"/>
 </segment>
@@ -4508,7 +4508,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="22" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="D26"/>
+<pinref part="BOARD" gate="G$1" pin="D26"/>
 <wire x1="456.438" y1="142.748" x2="458.216" y2="142.748" width="0.1524" layer="91"/>
 <label x="458.216" y="142.748" size="1.016" layer="95" xref="yes"/>
 </segment>
@@ -4525,7 +4525,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="21" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="D27"/>
+<pinref part="BOARD" gate="G$1" pin="D27"/>
 <wire x1="456.438" y1="145.288" x2="458.216" y2="145.288" width="0.1524" layer="91"/>
 <label x="458.216" y="145.288" size="1.016" layer="95" xref="yes"/>
 </segment>
@@ -4542,7 +4542,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="20" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="D14"/>
+<pinref part="BOARD" gate="G$1" pin="D14"/>
 <wire x1="456.438" y1="147.828" x2="458.216" y2="147.828" width="0.1524" layer="91"/>
 <label x="458.216" y="147.828" size="1.016" layer="95" xref="yes"/>
 </segment>
@@ -4559,7 +4559,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="19" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="D12"/>
+<pinref part="BOARD" gate="G$1" pin="D12"/>
 <wire x1="456.438" y1="150.368" x2="458.216" y2="150.368" width="0.1524" layer="91"/>
 <label x="458.216" y="150.368" size="1.016" layer="95" xref="yes"/>
 </segment>
@@ -4576,7 +4576,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="18" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="D13"/>
+<pinref part="BOARD" gate="G$1" pin="D13"/>
 <wire x1="456.438" y1="152.908" x2="458.216" y2="152.908" width="0.1524" layer="91"/>
 <label x="458.216" y="152.908" size="1.016" layer="95" xref="yes"/>
 </segment>
@@ -4593,7 +4593,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="17" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="GND"/>
+<pinref part="BOARD" gate="G$1" pin="GND"/>
 <wire x1="456.438" y1="155.448" x2="458.216" y2="155.448" width="0.1524" layer="91"/>
 <label x="458.216" y="155.448" size="1.016" layer="95" xref="yes"/>
 </segment>
@@ -4610,7 +4610,7 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </net>
 <net name="16" class="0">
 <segment>
-<pinref part="BOARD1" gate="G$1" pin="VIN"/>
+<pinref part="BOARD" gate="G$1" pin="VIN"/>
 <wire x1="456.438" y1="157.988" x2="458.216" y2="157.988" width="0.1524" layer="91"/>
 <label x="458.216" y="157.988" size="1.016" layer="95" xref="yes"/>
 </segment>
