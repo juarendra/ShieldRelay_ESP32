@@ -2855,6 +2855,143 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </deviceset>
 </devicesets>
 </library>
+<library name="1716090000">
+<description>&lt;Printed circuit board terminals, 5.08 mm, Number of poles: 3, 90, Solder pin length: 3.5 mm, tinned, orange, Clamping yoke connection, Clamping range, max. [rated connection]: 2.5 mm, Box&lt;/b&gt;&lt;p&gt;
+&lt;author&gt;Created by SamacSys&lt;/author&gt;</description>
+<packages>
+<package name="SHDR3W95P0X508_1X3_1524X1000X1">
+<description>&lt;b&gt;1716090000&lt;/b&gt;&lt;br&gt;
+</description>
+<pad name="1" x="0" y="0" drill="1.55" diameter="2.325" shape="square"/>
+<pad name="2" x="5.08" y="0" drill="1.55" diameter="2.325"/>
+<pad name="3" x="10.16" y="0" drill="1.55" diameter="2.325"/>
+<text x="0" y="0" size="1.27" layer="25" align="center">&gt;NAME</text>
+<text x="0" y="0" size="1.27" layer="27" align="center">&gt;VALUE</text>
+<wire x1="-2.79" y1="-5.05" x2="-2.79" y2="5.45" width="0.05" layer="51"/>
+<wire x1="-2.79" y1="5.45" x2="12.95" y2="5.45" width="0.05" layer="51"/>
+<wire x1="12.95" y1="5.45" x2="12.95" y2="-5.05" width="0.05" layer="51"/>
+<wire x1="12.95" y1="-5.05" x2="-2.79" y2="-5.05" width="0.05" layer="51"/>
+<wire x1="-2.54" y1="-4.8" x2="-2.54" y2="5.2" width="0.1" layer="51"/>
+<wire x1="-2.54" y1="5.2" x2="12.7" y2="5.2" width="0.1" layer="51"/>
+<wire x1="12.7" y1="5.2" x2="12.7" y2="-4.8" width="0.1" layer="51"/>
+<wire x1="12.7" y1="-4.8" x2="-2.54" y2="-4.8" width="0.1" layer="51"/>
+<wire x1="0" y1="-4.8" x2="12.7" y2="-4.8" width="0.2" layer="21"/>
+<wire x1="12.7" y1="-4.8" x2="12.7" y2="5.2" width="0.2" layer="21"/>
+<wire x1="12.7" y1="5.2" x2="-2.54" y2="5.2" width="0.2" layer="21"/>
+<wire x1="-2.54" y1="5.2" x2="-2.54" y2="0" width="0.2" layer="21"/>
+</package>
+</packages>
+<symbols>
+<symbol name="1716090000">
+<wire x1="5.08" y1="2.54" x2="15.24" y2="2.54" width="0.254" layer="94"/>
+<wire x1="15.24" y1="-7.62" x2="15.24" y2="2.54" width="0.254" layer="94"/>
+<wire x1="15.24" y1="-7.62" x2="5.08" y2="-7.62" width="0.254" layer="94"/>
+<wire x1="5.08" y1="2.54" x2="5.08" y2="-7.62" width="0.254" layer="94"/>
+<text x="16.51" y="7.62" size="1.778" layer="95" align="center-left">&gt;NAME</text>
+<text x="16.51" y="5.08" size="1.778" layer="96" align="center-left">&gt;VALUE</text>
+<pin name="1" x="0" y="0" length="middle"/>
+<pin name="2" x="0" y="-2.54" length="middle"/>
+<pin name="3" x="0" y="-5.08" length="middle"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="1716090000" prefix="J">
+<description>&lt;b&gt;Printed circuit board terminals, 5.08 mm, Number of poles: 3, 90, Solder pin length: 3.5 mm, tinned, orange, Clamping yoke connection, Clamping range, max. [rated connection]: 2.5 mm, Box&lt;/b&gt;&lt;p&gt;
+Source: &lt;a href="http://catalog.weidmueller.com/createDatasheetForMobile.do?ordernumber=1716090000&amp;scope1=1&amp;scope2=1&amp;localeId=en"&gt; Datasheet &lt;/a&gt;</description>
+<gates>
+<gate name="G$1" symbol="1716090000" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="SHDR3W95P0X508_1X3_1524X1000X1">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+<connect gate="G$1" pin="3" pad="3"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="DESCRIPTION" value="Printed circuit board terminals, 5.08 mm, Number of poles: 3, 90, Solder pin length: 3.5 mm, tinned, orange, Clamping yoke connection, Clamping range, max. [rated connection]: 2.5 mm, Box" constant="no"/>
+<attribute name="HEIGHT" value="13.8mm" constant="no"/>
+<attribute name="MANUFACTURER_NAME" value="Weidmuller" constant="no"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="1716090000" constant="no"/>
+<attribute name="MOUSER_PART_NUMBER" value="470-1716090000" constant="no"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Weidmuller/1716090000?qs=BTG2th8YmhRwtiTHzuCKAQ%3D%3D" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
+<library name="1716080000">
+<description>&lt;Printed circuit board terminals, 5.08 mm, Number of poles: 2, 90, Solder pin length: 3.5 mm, tinned, orange, Clamping yoke connection, Clamping range, max. [rated connection]: 2.5 mm, Box&lt;/b&gt;&lt;p&gt;
+&lt;author&gt;Created by SamacSys&lt;/author&gt;</description>
+<packages>
+<package name="1716080000">
+<description>&lt;b&gt;1716080000-2&lt;/b&gt;&lt;br&gt;
+</description>
+<pad name="1" x="0" y="0" drill="1.3" diameter="1.95" shape="square"/>
+<pad name="2" x="5.08" y="0" drill="1.3" diameter="1.95"/>
+<text x="2.815" y="0.2" size="1.27" layer="25" align="center">&gt;NAME</text>
+<text x="2.815" y="0.2" size="1.27" layer="27" align="center">&gt;VALUE</text>
+<wire x1="-2.54" y1="5.2" x2="8.17" y2="5.2" width="0.1" layer="51"/>
+<wire x1="8.17" y1="5.2" x2="8.17" y2="-4.8" width="0.1" layer="51"/>
+<wire x1="8.17" y1="-4.8" x2="-2.54" y2="-4.8" width="0.1" layer="51"/>
+<wire x1="-2.54" y1="-4.8" x2="-2.54" y2="5.2" width="0.1" layer="51"/>
+<wire x1="-2.54" y1="5.2" x2="8.17" y2="5.2" width="0.2" layer="21"/>
+<wire x1="8.17" y1="5.2" x2="8.17" y2="-4.8" width="0.2" layer="21"/>
+<wire x1="8.17" y1="-4.8" x2="-2.54" y2="-4.8" width="0.2" layer="21"/>
+<wire x1="-2.54" y1="-4.8" x2="-2.54" y2="5.2" width="0.2" layer="21"/>
+<wire x1="-3.54" y1="6.2" x2="9.17" y2="6.2" width="0.1" layer="51"/>
+<wire x1="9.17" y1="6.2" x2="9.17" y2="-5.8" width="0.1" layer="51"/>
+<wire x1="9.17" y1="-5.8" x2="-3.54" y2="-5.8" width="0.1" layer="51"/>
+<wire x1="-3.54" y1="-5.8" x2="-3.54" y2="6.2" width="0.1" layer="51"/>
+<wire x1="-3.2" y1="0" x2="-3.2" y2="0" width="0.1" layer="21"/>
+<wire x1="-3.2" y1="0" x2="-3.1" y2="0" width="0.1" layer="21" curve="180"/>
+<wire x1="-3.1" y1="0" x2="-3.1" y2="0" width="0.1" layer="21"/>
+<wire x1="-3.1" y1="0" x2="-3.2" y2="0" width="0.1" layer="21" curve="180"/>
+</package>
+</packages>
+<symbols>
+<symbol name="1716080000">
+<wire x1="5.08" y1="2.54" x2="15.24" y2="2.54" width="0.254" layer="94"/>
+<wire x1="15.24" y1="-5.08" x2="15.24" y2="2.54" width="0.254" layer="94"/>
+<wire x1="15.24" y1="-5.08" x2="5.08" y2="-5.08" width="0.254" layer="94"/>
+<wire x1="5.08" y1="2.54" x2="5.08" y2="-5.08" width="0.254" layer="94"/>
+<text x="16.51" y="7.62" size="1.778" layer="95" align="center-left">&gt;NAME</text>
+<text x="16.51" y="5.08" size="1.778" layer="96" align="center-left">&gt;VALUE</text>
+<pin name="1" x="0" y="0" length="middle"/>
+<pin name="2" x="0" y="-2.54" length="middle"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="1716080000" prefix="J">
+<description>&lt;b&gt;Printed circuit board terminals, 5.08 mm, Number of poles: 2, 90, Solder pin length: 3.5 mm, tinned, orange, Clamping yoke connection, Clamping range, max. [rated connection]: 2.5 mm, Box&lt;/b&gt;&lt;p&gt;
+Source: &lt;a href="http://catalog.weidmueller.com/createDatasheetForMobile.do?ordernumber=1716080000&amp;scope1=1&amp;scope2=1&amp;localeId=en"&gt; Datasheet &lt;/a&gt;</description>
+<gates>
+<gate name="G$1" symbol="1716080000" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="1716080000">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="DESCRIPTION" value="Printed circuit board terminals, 5.08 mm, Number of poles: 2, 90, Solder pin length: 3.5 mm, tinned, orange, Clamping yoke connection, Clamping range, max. [rated connection]: 2.5 mm, Box" constant="no"/>
+<attribute name="HEIGHT" value="13.8mm" constant="no"/>
+<attribute name="MANUFACTURER_NAME" value="Weidmuller" constant="no"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="1716080000" constant="no"/>
+<attribute name="MOUSER_PART_NUMBER" value="470-1716080000" constant="no"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Weidmuller/1716080000?qs=BTG2th8YmhQnu8ZhPH6LgQ%3D%3D" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -2950,6 +3087,11 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 <part name="C2" library="KGM15BR71E104KT" deviceset="KGM15BR71E104KT" device="" value="0.1uf"/>
 <part name="GND10" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+12" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
+<part name="J1" library="1716090000" deviceset="1716090000" device=""/>
+<part name="J2" library="1716090000" deviceset="1716090000" device=""/>
+<part name="J3" library="1716090000" deviceset="1716090000" device=""/>
+<part name="J4" library="1716080000" deviceset="1716080000" device=""/>
+<part name="J5" library="1716080000" deviceset="1716080000" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -3259,6 +3401,26 @@ Source: &lt;a href="https://spicat.kyocera-avx.com/product/mlcc/chartview/KGM15B
 </instance>
 <instance part="P+12" gate="1" x="298.958" y="103.378" smashed="yes">
 <attribute name="VALUE" x="300.99" y="105.664" size="1.016" layer="96" rot="R180"/>
+</instance>
+<instance part="J1" gate="G$1" x="526.542" y="176.022" smashed="yes">
+<attribute name="NAME" x="543.052" y="183.642" size="1.778" layer="95" align="center-left"/>
+<attribute name="VALUE" x="543.052" y="181.102" size="1.778" layer="96" align="center-left"/>
+</instance>
+<instance part="J2" gate="G$1" x="526.288" y="161.29" smashed="yes">
+<attribute name="NAME" x="542.798" y="168.91" size="1.778" layer="95" align="center-left"/>
+<attribute name="VALUE" x="542.798" y="166.37" size="1.778" layer="96" align="center-left"/>
+</instance>
+<instance part="J3" gate="G$1" x="526.034" y="147.828" smashed="yes">
+<attribute name="NAME" x="542.544" y="155.448" size="1.778" layer="95" align="center-left"/>
+<attribute name="VALUE" x="542.544" y="152.908" size="1.778" layer="96" align="center-left"/>
+</instance>
+<instance part="J4" gate="G$1" x="526.288" y="132.334" smashed="yes">
+<attribute name="NAME" x="542.798" y="139.954" size="1.778" layer="95" align="center-left"/>
+<attribute name="VALUE" x="542.798" y="137.414" size="1.778" layer="96" align="center-left"/>
+</instance>
+<instance part="J5" gate="G$1" x="526.288" y="120.904" smashed="yes">
+<attribute name="NAME" x="542.798" y="128.524" size="1.778" layer="95" align="center-left"/>
+<attribute name="VALUE" x="542.798" y="125.984" size="1.778" layer="96" align="center-left"/>
 </instance>
 </instances>
 <busses>
