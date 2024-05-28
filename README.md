@@ -22,5 +22,7 @@ Relay Shield for ESP32 , Nodemcu V2 Amica or Nodemcu V3 Lolin. In board there ar
   <img src="DOC/shieldRelay5.png" width="50%" height="50%">
   <img src="DOC/shieldRelay6.png" width="50%" height="50%">
   <img src="DOC/shieldRelay7.png" width="50%" height="50%">
-
 </p>
+
+# Documentation 
+- [Dimension](https://github.com/juarendra/ShieldRelay_ESP32/blob/main/HARDWARE/dimension_shield_esp32.pdf)
