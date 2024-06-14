@@ -4364,41 +4364,6 @@ AND ESP32</text>
 <label x="124.968" y="117.094" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="N$23" class="0">
-<segment>
-<pinref part="RELAY_CONTROL" gate="A" pin="10"/>
-<wire x1="137.668" y1="117.094" x2="142.494" y2="117.094" width="0.1524" layer="91"/>
-<label x="142.494" y="117.094" size="1.016" layer="95" xref="yes"/>
-</segment>
-</net>
-<net name="N$24" class="0">
-<segment>
-<pinref part="RELAY_CONTROL" gate="A" pin="8"/>
-<wire x1="137.668" y1="119.634" x2="142.494" y2="119.634" width="0.1524" layer="91"/>
-<label x="142.494" y="119.634" size="1.016" layer="95" xref="yes"/>
-</segment>
-</net>
-<net name="N$25" class="0">
-<segment>
-<pinref part="RELAY_CONTROL" gate="A" pin="6"/>
-<wire x1="137.668" y1="122.174" x2="142.494" y2="122.174" width="0.1524" layer="91"/>
-<label x="142.494" y="122.174" size="1.016" layer="95" xref="yes"/>
-</segment>
-</net>
-<net name="N$26" class="0">
-<segment>
-<pinref part="RELAY_CONTROL" gate="A" pin="4"/>
-<wire x1="137.668" y1="124.714" x2="142.494" y2="124.714" width="0.1524" layer="91"/>
-<label x="142.494" y="124.714" size="1.016" layer="95" xref="yes"/>
-</segment>
-</net>
-<net name="N$27" class="0">
-<segment>
-<pinref part="RELAY_CONTROL" gate="A" pin="2"/>
-<wire x1="137.668" y1="127.254" x2="142.494" y2="127.254" width="0.1524" layer="91"/>
-<label x="142.494" y="127.254" size="1.016" layer="95" xref="yes"/>
-</segment>
-</net>
 <net name="+3V3" class="0">
 <segment>
 <pinref part="+3V1" gate="G$1" pin="+3V3"/>
@@ -4643,6 +4608,11 @@ AND ESP32</text>
 <wire x1="112.522" y1="90.678" x2="107.696" y2="90.678" width="0.1524" layer="91"/>
 <label x="107.696" y="90.678" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
+<segment>
+<pinref part="RELAY_CONTROL" gate="A" pin="10"/>
+<wire x1="137.668" y1="117.094" x2="142.494" y2="117.094" width="0.1524" layer="91"/>
+<label x="142.494" y="117.094" size="1.016" layer="95" xref="yes"/>
+</segment>
 </net>
 <net name="6" class="0">
 <segment>
@@ -4659,6 +4629,11 @@ AND ESP32</text>
 <pinref part="JP11" gate="A" pin="6"/>
 <wire x1="112.522" y1="88.138" x2="107.696" y2="88.138" width="0.1524" layer="91"/>
 <label x="107.696" y="88.138" size="1.016" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="RELAY_CONTROL" gate="A" pin="8"/>
+<wire x1="137.668" y1="119.634" x2="142.494" y2="119.634" width="0.1524" layer="91"/>
+<label x="142.494" y="119.634" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="7" class="0">
@@ -4677,6 +4652,11 @@ AND ESP32</text>
 <wire x1="112.522" y1="85.598" x2="107.696" y2="85.598" width="0.1524" layer="91"/>
 <label x="107.696" y="85.598" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
+<segment>
+<pinref part="RELAY_CONTROL" gate="A" pin="6"/>
+<wire x1="137.668" y1="122.174" x2="142.494" y2="122.174" width="0.1524" layer="91"/>
+<label x="142.494" y="122.174" size="1.016" layer="95" xref="yes"/>
+</segment>
 </net>
 <net name="8" class="0">
 <segment>
@@ -4693,6 +4673,11 @@ AND ESP32</text>
 <pinref part="JP11" gate="A" pin="8"/>
 <wire x1="112.522" y1="83.058" x2="107.696" y2="83.058" width="0.1524" layer="91"/>
 <label x="107.696" y="83.058" size="1.016" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="RELAY_CONTROL" gate="A" pin="4"/>
+<wire x1="137.668" y1="124.714" x2="142.494" y2="124.714" width="0.1524" layer="91"/>
+<label x="142.494" y="124.714" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="9" class="0">
@@ -4744,6 +4729,11 @@ AND ESP32</text>
 <pinref part="JP11" gate="A" pin="11"/>
 <wire x1="112.522" y1="75.438" x2="107.696" y2="75.438" width="0.1524" layer="91"/>
 <label x="107.696" y="75.438" size="1.016" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="RELAY_CONTROL" gate="A" pin="2"/>
+<wire x1="137.668" y1="127.254" x2="142.494" y2="127.254" width="0.1524" layer="91"/>
+<label x="142.494" y="127.254" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="12" class="0">
