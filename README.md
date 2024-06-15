@@ -13,7 +13,7 @@ Relay Shield for ESP32 , Nodemcu V2 Amica or Nodemcu V3 Lolin. In board there ar
 - 2 x 10A Relay Couil
 - 2 x 2A SSR
 
-# Privew Hardware BASE RPI
+# Privew Hardware ShieldRelay_ESP32
 <p align="center">
   <img src="DOC/shieldRelay1.png" width="50%" height="50%">
   <img src="DOC/shieldRelay2.png" width="50%" height="50%">
